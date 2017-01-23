@@ -1,0 +1,1065 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Forestly v1.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Fri Jun 05 2015 17:03:54 GMT-0400 (PYT)\n"
+"Last-Translator: Fosforito <nikski280@gmail.com>\n"
+"Language-Team: \n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: es_ES"
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: ../search.php:32 ../index.php:47 ../content-none.php:11
+msgid "Nothing Found"
+msgstr "Nada encontrado..."
+
+#: ../search.php:36
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo siento, no se encontró nada relacionado a tus criterios de búsqueda. Por "
+"favor, inténtalo de nuevo con etiquetas diferentes."
+
+#: ../single.php:17 ../functions.php:227
+msgid "Post navigation"
+msgstr "Navegación de Entradas"
+
+#: ../single.php:18
+msgctxt "Previous post link"
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../single.php:19
+msgctxt "Next post link"
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../functions.php:26
+msgid "Main Navigation Menu"
+msgstr "Menú de Navegación Principal"
+
+#: ../functions.php:150
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: ../functions.php:169
+msgid "Main Sidebar"
+msgstr "Barra lateral Principal"
+
+#: ../functions.php:171
+msgid "This is a Sitewide sidebar which appears on posts and pages"
+msgstr "Ésta es una Barra lateral que aparece en todas las Páginas y Entradas"
+
+#: ../functions.php:229
+msgid "&laquo; Older posts"
+msgstr "&laquo; Entradas antiguas"
+
+#: ../functions.php:230
+msgid "Newer posts &raquo;"
+msgstr "Entradas nuevas &raquo;"
+
+#: ../functions.php:252
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../functions.php:253 ../functions.php:259 ../functions.php:289 ../content.php:
+#: 79 ../content-page.php:20 ../image.php:35
+msgid "Edit"
+msgstr "Editar"
+
+#: ../functions.php:258
+msgid "Trackback:"
+msgstr "Trackback:"
+
+#: ../functions.php:272
+msgid "Post author"
+msgstr "Autor"
+
+#. translators: 1: date
+#: ../functions.php:278
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../functions.php:283
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando revisión."
+
+#: ../functions.php:290
+msgid "Reply"
+msgstr "Responder"
+
+#: ../functions.php:304 ../functions.php:307
+msgid ", "
+msgstr ", "
+
+#: ../functions.php:318
+#, php-format
+msgid "View all posts by %s"
+msgstr "Ver todas las Entradas de %s"
+
+#: ../functions.php:324
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-"
+"author\"> by %4$s</span>."
+msgstr ""
+"Ésta Entrada se publicó en %1$s y etiquetó %2$s con %3$s<span class=\"by-"
+"author\"> por %4$s</span>."
+
+#: ../functions.php:326
+#, php-format
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+"Ésta Entrada se publicó en %1$s el %3$s<span class=\"by-author\"> "
+"por%4$s</span>."
+
+#: ../functions.php:328
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Ésta Entrada se publicó el %3$s<span class=\"by-author\"> por %4$s</span>."
+
+#: ../functions.php:453
+msgid "ATTENTION!"
+msgstr ""
+
+#: ../functions.php:456
+msgid ""
+"Before you can enjoy the Theme there is one <strong>important</strong> thing "
+"that must be done!"
+msgstr ""
+
+#: ../functions.php:461
+msgid ""
+"Define a menu in the WordPress menu page as \"Main Navigation Menu\" or you "
+"will not see it on mobile devices."
+msgstr ""
+
+#: ../functions.php:473
+msgid "<i>Your Donation will motivate me to make Forestly better!</i>"
+msgstr ""
+
+#: ../functions.php:481 ../content.php:73
+msgid "Continue reading &raquo;"
+msgstr "Continuar leyendo &raquo;"
+
+#: ../functions.php:510 ../image.php:39
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: ../functions.php:533 ../image.php:40
+msgid "Next &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: ../footer.php:32
+#, php-format
+msgid "<a href=\"%1$s\">Forestly</a> Theme | Powered by <a href=\"%2$s\">Wordpress</a>"
+msgstr ""
+"Tema <a href=\"%1$s\">Forestly</a> | Funcionando con <a "
+"href=\"%2$s\">WordPress</a>"
+
+#: ../header.php:67 ../header.php:68
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: ../options.php:334
+msgid "Blogger"
+msgstr "Blogger"
+
+#: ../options.php:335
+msgid "Delicious"
+msgstr "Delicious"
+
+#: ../options.php:336
+msgid "Digg"
+msgstr "Digg"
+
+#: ../options.php:337
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../options.php:338
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../options.php:339
+msgid "Google"
+msgstr "Google"
+
+#: ../options.php:340
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../options.php:341
+msgid "Lastfm"
+msgstr "Lastfm"
+
+#: ../options.php:342
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../options.php:343
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../options.php:344
+msgid "Orkut"
+msgstr "Orkut"
+
+#: ../options.php:345
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../options.php:346
+msgid "RSS"
+msgstr "RSS"
+
+#: ../options.php:347
+msgid "Skype"
+msgstr "Skype"
+
+#: ../options.php:348
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: ../options.php:349
+msgid "Technorati"
+msgstr "Technorati"
+
+#: ../options.php:350
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../options.php:351
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../options.php:352
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../options.php:353
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: ../options.php:354
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../options.php:374 ../options.php:532
+msgid "General"
+msgstr "General"
+
+#: ../options.php:378
+msgid "Edit general options about your Website in this section."
+msgstr "Edita opciones generales de tu página web en ésta sección."
+
+#: ../options.php:382
+msgid "Set Logo"
+msgstr "Configurar Logotipo"
+
+#: ../options.php:383
+msgid ""
+"Select or upload a new Logo Image to replace the Website Title and "
+"Description."
+msgstr ""
+"Selecciona o sube una nueva imagen de Logotipo para reemplazar la "
+"descripción y el título de la página web."
+
+#: ../options.php:388
+msgid "Set Favicon Icon"
+msgstr "Configurar Icono Favicon"
+
+#: ../options.php:389
+msgid ""
+"Select or upload a new Favicon Icon to display in the Address Bar of the "
+"Browser next to the Website Title. The size of the Icon should be of 16x16px."
+msgstr ""
+"Selecciona o sube un nuevo Icono Favicon para mostrar en la barra de "
+"dirección del navegador, al lado del título de la página web. El tamaño del "
+"icono debería ser de 16x16px."
+
+#: ../options.php:396 ../inc/fosforit-customizer.php:69
+msgid "Layout"
+msgstr ""
+
+#: ../options.php:400 ../inc/fosforit-customizer.php:76
+msgid "Post Excerpts"
+msgstr "Extractos de Entradas"
+
+#: ../options.php:401 ../inc/fosforit-customizer.php:77
+msgid ""
+"Check the Pages and Post Types where you want to display Post Excerpts."
+"<br/>Leave unchecked to display complete Posts."
+msgstr ""
+"Selecciona los tipos de Páginas y Entradas en las cuales quieres mostrar "
+"Extractos de Entradas. <br/>Deja vacío para mostrar Entradas completas."
+
+#: ../options.php:405 ../inc/fosforit-customizer.php:91
+msgid "Homepage"
+msgstr "Página Principal"
+
+#: ../options.php:411 ../inc/fosforit-customizer.php:104
+msgid "Category Pages"
+msgstr "Páginas de Categorías"
+
+#: ../options.php:417 ../inc/fosforit-customizer.php:117
+msgid "Tag Pages"
+msgstr "Páginas de Etiquetas"
+
+#: ../options.php:423 ../inc/fosforit-customizer.php:130
+msgid "Archive Pages"
+msgstr ""
+
+#: ../options.php:429 ../inc/fosforit-customizer.php:143
+msgid "Search Results Page"
+msgstr "Página de Resultados de Búsqueda"
+
+#: ../options.php:435 ../inc/fosforit-customizer.php:156
+msgid "Sticky Posts in Homepage"
+msgstr "Entradas fijas en la Página Principal"
+
+#: ../options.php:441 ../inc/fosforit-customizer.php:165
+msgid "Display Titles in Posts/Pages"
+msgstr ""
+
+#: ../options.php:442 ../inc/fosforit-customizer.php:166
+msgid ""
+"Check if you want to display Titles in single Pages or Posts.<br/>Uncheck to "
+"hide the Title."
+msgstr ""
+
+#: ../options.php:446
+msgid "Posts"
+msgstr ""
+
+#: ../options.php:452 ../sidebar.php:23
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../options.php:458 ../inc/fosforit-customizer.php:202
+msgid "Enable Numeric Pagination"
+msgstr "Activar Paginación numérica"
+
+#: ../options.php:459 ../inc/fosforit-customizer.php:203
+msgid ""
+"Check if you want to display numeric pagination in Post Lists. Leave "
+"unchecked to display traditional Next/Previous Links."
+msgstr ""
+"Activa si quieres mostrar una paginación numérica en listas de Entradas. "
+"Deja desactivado para mostrar los enlaces Siguiente/Anterior tradicionales."
+
+#: ../options.php:465 ../inc/fosforit-customizer.php:226
+msgid "Display \"Allowed HTML\" Text in Comment Form"
+msgstr "Mostrar Texto \"HTML permitido\" en Formulario de Comentarios"
+
+#: ../options.php:466 ../inc/fosforit-customizer.php:227
+msgid "Check to display the HTML Help Text above the textarea in the comment form."
+msgstr ""
+"Activa para mostrar el Texto de Etiquetas y Atributos HTML permitidos en el "
+"Formulario de Comentarios"
+
+#: ../options.php:472 ../inc/fosforit-customizer.php:250
+msgid "Display Author Info below single Posts"
+msgstr ""
+
+#: ../options.php:473 ../inc/fosforit-customizer.php:251
+msgid ""
+"Check to display the Author Avatar and Description below single Posts. Note "
+"that the Info Box will be displayed only when you have a description. Go to "
+"your profile page to edit it."
+msgstr ""
+
+#: ../options.php:479 ../inc/fosforit-customizer.php:274
+msgid "Display Post Navigation Links below Single Posts"
+msgstr ""
+
+#: ../options.php:480 ../inc/fosforit-customizer.php:275
+msgid "Check to display \"Next Post\" and \"Previous Post\" links below single Posts."
+msgstr ""
+
+#: ../options.php:488
+msgid "Design"
+msgstr "Diseño"
+
+#: ../options.php:492
+msgid ""
+"Please go to <a href=\"./customize.php\">This Page</a> to change the backround "
+"image and background color of your Website."
+msgstr ""
+"Por favor, visita <a href=\"./customize.php\">Ésta Página</a> para cambiar la "
+"imagen de fondo y el color de fondo de tu Página Web."
+
+#: ../options.php:496
+msgid "Predefined Color Schemes"
+msgstr "Esquemas de Colores predefinidos"
+
+#: ../options.php:497
+msgid ""
+"Select a Color Scheme for your Website. For more customization you can add "
+"and modify your own CSS rules in the Miscellaneous Tab. If you need help "
+"related to custom CSS, go to the Help Tab or visit our official Support "
+"Forum."
+msgstr ""
+"Selecciona un Esquema de Colores para tu Página web. Para más "
+"personalización puedes agregar y modificar estilos CSS propios en la sección "
+"\"Diverso\". Si necesitas ayuda con CSS personalizado, visita la sección "
+"\"Ayuda\" o nuestros Foros Oficiales de Soporte."
+
+#: ../options.php:512
+msgid "Font Families"
+msgstr ""
+
+#: ../options.php:513
+msgid "Configure here the Fonts you want to use in your Website."
+msgstr ""
+
+#: ../options.php:517
+msgid "Primary Font Family"
+msgstr ""
+
+#: ../options.php:533
+msgid "General Styles/Colors."
+msgstr ""
+
+#: ../options.php:537
+msgid "Site Container Background"
+msgstr ""
+
+#: ../options.php:543
+msgid "Site Header Background"
+msgstr ""
+
+#: ../options.php:549 ../options.php:554
+msgid "Main Menu"
+msgstr ""
+
+#: ../options.php:550
+msgid ""
+"These styles are applied to the Primary navigation Menu (and other elements "
+"automatically)."
+msgstr ""
+
+#: ../options.php:560
+msgid "Main Menu (hovered)"
+msgstr ""
+
+#: ../options.php:566
+msgid "Sub Menu Items"
+msgstr ""
+
+#: ../options.php:572
+msgid "Sub Menu Items (hovered)"
+msgstr ""
+
+#: ../options.php:578
+msgid "Sticky Posts"
+msgstr ""
+
+#: ../options.php:579
+msgid "These styles are applied to Sticky Posts displayed in the Blog Homepage only."
+msgstr ""
+
+#: ../options.php:583
+msgid "Sticky Posts Background"
+msgstr ""
+
+#: ../options.php:589
+msgid "Sticky Posts Border"
+msgstr ""
+
+#: ../options.php:597 ../inc/fosforit-customizer.php:397
+msgid "Social"
+msgstr "Social"
+
+#: ../options.php:601
+msgid ""
+"Here you can activate and modify the Social Media Icons and URLs to be "
+"displayed in the Header Section of your Website. Leave an URL field blank to "
+"hide it's Icon."
+msgstr ""
+"Aquí puedes activar y modificar los Iconos y Enlaces de Medios Sociales a "
+"mostrar en la cabecera de tu Página Web. Deja un campo de URL vacío para "
+"esconder su Icono."
+
+#: ../options.php:605
+msgid "Display Social Media Links"
+msgstr "Mostrar Enlaces de Medios Sociales"
+
+#: ../options.php:606
+msgid "Check if you want to display Social Media Links in the Website Header."
+msgstr ""
+"Activa si quieres mostrar Enlaces de Medios Sociales en la cabecera de tu "
+"Página Web."
+
+#: ../options.php:612
+msgid "Open Links in new Tab"
+msgstr "Abrir Enlaces en una pestaña nueva"
+
+#: ../options.php:613
+msgid "Check to open Social Media Links in a new Browser Tab."
+msgstr "Activa si quieres que los Enlaces se abran en una nueva pestaña."
+
+#: ../options.php:619
+msgid "Social Icon 1"
+msgstr "Icono 1"
+
+#: ../options.php:620 ../options.php:636 ../options.php:652 ../options.php:668 ..
+#: /options.php:684 ../options.php:700
+msgid "Select a Social Media Icon."
+msgstr "Selecciona un Icono"
+
+#: ../options.php:628
+msgid "URL for Icon 1"
+msgstr "Enlace para el Icono 1"
+
+#: ../options.php:629 ../options.php:645 ../options.php:661 ../options.php:677 ..
+#: /options.php:693 ../options.php:709
+msgid "Provide an URL for the Icon."
+msgstr "Selecciona un Enlace para el Icono"
+
+#: ../options.php:635
+msgid "Social Icon 2"
+msgstr "Icono 2"
+
+#: ../options.php:644
+msgid "URL for Icon 2"
+msgstr "Enlace para el Icono 2"
+
+#: ../options.php:651
+msgid "Social Icon 3"
+msgstr "Icono 3"
+
+#: ../options.php:660
+msgid "URL for Icon 3"
+msgstr "Enlace para el Icono 3"
+
+#: ../options.php:667
+msgid "Social Icon 4"
+msgstr "Icono 4"
+
+#: ../options.php:676
+msgid "URL for Icon 4"
+msgstr "Enlace para el Icono 4"
+
+#: ../options.php:683
+msgid "Social Icon 5"
+msgstr "Icono 5"
+
+#: ../options.php:692
+msgid "URL for Icon 5"
+msgstr "Enlace para el Icono 5"
+
+#: ../options.php:699
+msgid "Social Icon 6"
+msgstr "Icono 6"
+
+#: ../options.php:708
+msgid "URL for Icon 6"
+msgstr "Enlace para el Icono 6"
+
+#: ../options.php:717 ../inc/fosforit-customizer.php:594
+msgid "Miscellaneous"
+msgstr "Diverso"
+
+#: ../options.php:721
+msgid ""
+"In this Section you can modify the Footer of your Website, edit custom CSS "
+"Styles and customize other miscellaneous Things."
+msgstr ""
+"En ésta sección puedes modificar el Pie de tu Página Web, editar Estilos CSS "
+"y personalizar otras diversas cosas."
+
+#: ../options.php:725
+msgid "Custom Footer Text Left"
+msgstr "Texto de Pie izquierdo personalizado"
+
+#: ../options.php:726
+msgid ""
+"Insert here the HTML you want to display in the Footer on the Left: "
+"Copyright Owner, Company Name, Year, etc..."
+msgstr ""
+"Inserta aquí Texto HTML que desea mostrar en el Pie Izquierdo: Propietario "
+"de Copyright, Nombre de la Compañía, Año, etc..."
+
+#: ../options.php:732
+msgid "Custom Footer Text Right"
+msgstr "Texto de Pie derecho personalizado"
+
+#: ../options.php:733
+msgid ""
+"Insert here the HTML you want to display in the Footer on the Right: Contact-"
+", Terms & Conditions-, Privacy Policy Links, etc..."
+msgstr ""
+"Inserta aquí texto HTML que desea mostrar en el Pie Derecho: Enlaces de "
+"Contacto, Términos y Condiciones, Política de Privacidad, etc..."
+
+#: ../options.php:739
+msgid "Custom CSS Styles"
+msgstr "Estilos CSS personalizados"
+
+#: ../options.php:740
+msgid ""
+"Insert here your custom CSS styles and include them in your Posts and Pages "
+"for more personalization."
+msgstr ""
+"Inserta aquí Estilos CSS propios para incluirlos en Páginas y Entradas para "
+"más personalización."
+
+#: ../options.php:748
+msgid "Help"
+msgstr "Ayuda"
+
+#: ../options.php:755
+msgid "&raquo; More Themes"
+msgstr "&raquo; Más Temas"
+
+#: ../options.php:756
+msgid "&raquo; Support Forum"
+msgstr "&raquo; Foro de Soporte"
+
+#: ../options.php:757
+msgid "&raquo; Fosforito.Net"
+msgstr "&raquo; Fosforito.Net"
+
+#: ../options.php:760
+msgid "Forestly Quick Start Guide"
+msgstr ""
+
+#: ../options.php:761
+msgid "Responsive Menu"
+msgstr ""
+
+#: ../options.php:761
+msgid ""
+"<p>This is the first step: Set the Main Navigation menu for mobile view by "
+"going to <a href=\"./customize.php\">This Page</a>. Create your WordPress menu "
+"as per your requirement and select it as <b>Main Navigation Menu</b>, "
+"Navigation Menu responsiveness won't work otherwise.</p>"
+msgstr ""
+
+#: ../options.php:762
+msgid "First things to do"
+msgstr ""
+
+#: ../options.php:762
+msgid ""
+"<p>First upload a Logo Image for your Website. Than customize the Footer "
+"Texts in the \"Miscellaneous\" Section of this page and start Blogging! The "
+"Sidebar is Widget ready for easy configuration.</p>"
+msgstr ""
+
+#: ../options.php:763
+msgid "Logo Size"
+msgstr ""
+
+#: ../options.php:763
+msgid ""
+"<p>The recommended Logo should have dimensions of 200 x 55 pixels or similar."
+" You can easily try uploading logos of different sizes via live customizer."
+"</p>"
+msgstr ""
+
+#: ../options.php:764
+msgid "Safe Customization"
+msgstr ""
+
+#: ../options.php:764
+msgid ""
+"<p>Forestly has the option to create custom CSS classes. You can add your "
+"own styles on this page in the \"Miscellaneous\" Section and include them in "
+"your Posts and Pages.</p><p>The only limit is your own creativity!</p>"
+msgstr ""
+
+#: ../options.php:765
+msgid "Idea Behind Forestly"
+msgstr ""
+
+#: ../options.php:765
+msgid ""
+"<p>The Idea behind Forestly is to equip the bloggers with a simple, light "
+"and fully responsive theme so	that they don't have to look anywhere else."
+"</p><p>It has been designed and coded in such a way that even if you are new "
+"to Wordpress you will be able to make the most out of it.</p>"
+msgstr ""
+
+#: ../options.php:766
+msgid "Forestly is Safe"
+msgstr ""
+
+#: ../options.php:766
+msgid ""
+"<p>Forestly uses Wordpress native funtions to generate thumbnails without "
+"relying on third party scripts such as timthumb. Forestly is also properly "
+"coded to avoid plugin conflicts and is customizable.</p>"
+msgstr ""
+
+#: ../options.php:767
+msgid "Built for Speed"
+msgstr ""
+
+#: ../options.php:767
+msgid ""
+"<p>The first thing you will notice about Forestly is its blazing fast "
+"rendering, it will be loved by your visitors and they will have more time "
+"for browsing your content."
+msgstr ""
+
+#: ../options.php:768
+msgid "The Right Choice - Ultra Responsive"
+msgstr ""
+
+#: ../options.php:768
+msgid ""
+"<p>Forestly is a premium quality theme with pixel perfect typography and "
+"responsiveness and is built for speed with pagespeed score of 95+! Forestly "
+"implements proper SEO so that your content will rank high and is compatible "
+"with AIOSEO and Yoast SEO. It utilizes latest HTML5 and CSS3 that looks good "
+"on every browser and is future ready.</p>"
+msgstr ""
+
+#: ../options.php:769
+msgid "Support"
+msgstr ""
+
+#: ../options.php:769
+msgid ""
+"<p>Support is free. Access our official Support Forums on www.fosforito."
+"net/forums/. You can also report issues, give feedback and help us in "
+"improving the theme.</p>"
+msgstr ""
+
+#: ../options.php:770
+msgid "Further Development and Roadmap"
+msgstr ""
+
+#: ../options.php:770
+msgid ""
+"<p>Forestly has been handcrafted with most care and love, we hope that you "
+"will love this theme, kindly support us by rating the theme 5 stars, if "
+"there are any issue/bugs simply head to our Forums to report them and we "
+"will	do our best to fix those issues.</p>"
+msgstr ""
+
+#: ../options.php:772
+msgid ""
+"Based on your feedback we will add the most wanted features for further "
+"improvement."
+msgstr ""
+
+#: ../options.php:775
+msgid "Forestly Developer"
+msgstr ""
+
+#: ../404.php:15
+msgid "Oops! The requested page doesn't exist!"
+msgstr "Oops! La página solicitada no existe!"
+
+#: ../404.php:18 ../index.php:51 ../content-none.php:15
+msgid "Kindly search your topic below or browse the recent posts."
+msgstr "Busca tu tema abajo o navega por las entradas más recientes."
+
+#: ../author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archivos del Autor: %s"
+
+#: ../author.php:48 ../content.php:87
+#, php-format
+msgid "About %s"
+msgstr "Sobre %s"
+
+#: ../category.php:15
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archivos de Categoría: %s"
+
+#: ../tag.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archivos de Etiqueta: %s"
+
+#: ../content.php:13
+msgid "Featured Article"
+msgstr "Artículo recomendado"
+
+#: ../content.php:24 ../content.php:62
+#, php-format
+msgid "Permalink to %s"
+msgstr "Enlace permanente a %s"
+
+#: ../content.php:36
+msgid "By"
+msgstr "De"
+
+#: ../content.php:74 ../content-page.php:17 ../image.php:90
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: ../content.php:78
+msgid "Category:"
+msgstr "Categoría:"
+
+#: ../content.php:91
+#, php-format
+msgid "View all posts by %s &raquo;"
+msgstr "Ver todas las Entradas de %s &raquo;"
+
+#: ../archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+#: ../archive.php:29
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales: %s"
+
+#: ../archive.php:29
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: ../archive.php:31
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+#: ../archive.php:31
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: ../archive.php:33
+msgid "Archives"
+msgstr "Archivos"
+
+#: ../comments.php:22
+#, php-format
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Comentarios en &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:33
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: ../comments.php:34
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Comentarios antiguos"
+
+#: ../comments.php:35
+msgid "Newer Comments &raquo;"
+msgstr "Comentarios nuevos &raquo;"
+
+#: ../comments.php:44
+msgid "Comments are closed."
+msgstr "Comentarios cerrados"
+
+#: ../comments.php:50
+msgid "You can use the following HTML Tags and Attributes:"
+msgstr "Puedes usar las siguientes etiquetas y atributos HTML:"
+
+#: ../sidebar.php:19
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: ../sidebar.php:28
+msgid "Tag Cloud"
+msgstr "Nube de Etiquetas"
+
+#: ../index.php:36
+msgid "No posts to display"
+msgstr "No hay Entradas para mostrar..."
+
+#: ../index.php:40
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Listo para publicar tu primera Entrada? <a href=\"%s\">Empieza aquí</a>."
+
+#: ../image.php:24
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Publicado </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> en <a href=\"%3$s\" title=\"Imagen de tamaño "
+"original\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Volver a %7$s\" "
+"rel=\"gallery\">%8$s</a>."
+
+#: ../inc/fosforit-customizer.php:180
+msgid "Display Post Title on Single Posts"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:193
+msgid "Display Page Title on Pages"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:217
+msgid "Enable Numerical Post Navigation"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:241
+msgid "Display allowed HTML Tags below Comment Forms"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:265
+msgid "Display Avatar and Description by the Author of a Post"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:289
+msgid "Display Traditional \"Next\" and \"Previous\" Links below Single Posts"
+msgstr ""
+
+#: ../inc/includes/class-options-framework-admin.php:91 ../inc/includes/class-
+#: options-framework-admin.php:92
+msgid "Forestly Theme Options"
+msgstr "Opciones del Tema Forestly"
+
+#: ../inc/includes/class-options-framework-admin.php:204
+msgid "Save Options"
+msgstr "Guardar Opciones"
+
+#: ../inc/includes/class-options-framework-admin.php:205
+msgid "Restore Defaults"
+msgstr "Restablecer Opciones"
+
+#: ../inc/includes/class-options-framework-admin.php:205
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Haga clic en Aceptar para continuar. Todas las personalizaciones se perderán!"
+
+#: ../inc/includes/class-options-framework-admin.php:236
+msgid "Default options restored."
+msgstr "Opciones predeterminadas restauradas."
+
+#: ../inc/includes/class-options-framework-admin.php:290
+msgid "Options saved."
+msgstr "Opciones guardadas."
+
+#: ../inc/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Ningún Archivo seleccionado"
+
+#: ../inc/includes/class-options-media-uploader.php:65 ../inc/includes/class-
+#: options-media-uploader.php:118
+msgid "Upload"
+msgstr "Subir"
+
+#: ../inc/includes/class-options-media-uploader.php:67 ../inc/includes/class-
+#: options-media-uploader.php:119
+msgid "Remove"
+msgstr "Borrar"
+
+#: ../inc/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Actualiza tu versión de WordPress para soporte completo de medios."
+
+#: ../inc/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Ver Archivo"
+
+#: ../inc/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "Sin repetición"
+
+#: ../inc/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: ../inc/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: ../inc/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "Repetir todos"
+
+#: ../inc/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "Arriba Izquierda"
+
+#: ../inc/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "Arriba Centro"
+
+#: ../inc/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Arriba Derecha"
+
+#: ../inc/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "Medio Izquierda"
+
+#: ../inc/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "Medio Centro"
+
+#: ../inc/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "Medio Derecha"
+
+#: ../inc/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "Abajo Izquierda"
+
+#: ../inc/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "Abajo Centro"
+
+#: ../inc/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "Abajo Derecha"
+
+#: ../inc/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "Desplazar normalmente"
+
+#: ../inc/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "Fijado en el lugar"
+
+#: ../inc/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Normal"
+
+#: ../inc/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "Cursiva"
+
+#: ../inc/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Negrita"
+
+#: ../inc/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "Negrita Cursiva"

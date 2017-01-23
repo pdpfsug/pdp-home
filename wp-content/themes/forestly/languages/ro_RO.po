@@ -1,0 +1,1299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Forestly v1.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Fri Jun 05 2015 17:03:40 GMT-0400 (PYT)\n"
+"Last-Translator: Fosforito <nikski280@gmail.com>\n"
+"Language-Team: \n"
+"Language: Romanian\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1))\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-Basepath: .\n"
+"X-Loco-Target-Locale: ro_RO"
+
+# @ forestly
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Cauta rezultatele pentru: %s"
+
+# @ forestly
+#: ../search.php:32 ../index.php:47 ../content-none.php:11
+msgid "Nothing Found"
+msgstr "Nu s-a gasit nimic"
+
+# @ forestly
+#: ../search.php:36
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Ne pare rau dar nimic nu se potriveste criteriilor de cautare. Va rugam "
+"incercati din nou cu alte cuvinte chei."
+
+# @ forestly
+#: ../single.php:17 ../functions.php:227
+msgid "Post navigation"
+msgstr "Navigarea articolelor"
+
+# @ forestly
+#: ../single.php:18
+msgctxt "Previous post link"
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ forestly
+#: ../single.php:19
+msgctxt "Next post link"
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ forestly
+#: ../functions.php:26
+msgid "Main Navigation Menu"
+msgstr "Meniul principal de navigatie"
+
+# @ forestly
+#: ../functions.php:150
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+# @ forestly
+#: ../functions.php:169
+msgid "Main Sidebar"
+msgstr "Bara principala"
+
+# @ forestly
+#: ../functions.php:171
+msgid "This is a Sitewide sidebar which appears on posts and pages"
+msgstr "Aceasta este o bara ce apare la toate mesajele si in toate paginile"
+
+# @ forestly
+#: ../functions.php:229
+msgid "&laquo; Older posts"
+msgstr "&laquo; Articole mai vechi"
+
+# @ forestly
+#: ../functions.php:230
+msgid "Newer posts &raquo;"
+msgstr "Articole mai noi &raquo;"
+
+# @ forestly
+#: ../functions.php:252
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ forestly
+#: ../functions.php:253 ../functions.php:259 ../functions.php:289 ../content.php:
+#: 79 ../content-page.php:20 ../image.php:35
+msgid "Edit"
+msgstr "Editeaza"
+
+# @ forestly
+#: ../functions.php:258
+msgid "Trackback:"
+msgstr "Trackback:"
+
+# @ forestly
+#: ../functions.php:272
+msgid "Post author"
+msgstr "Autorul articolului"
+
+# @ forestly
+#. translators: 1: date
+#: ../functions.php:278
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ forestly
+#: ../functions.php:283
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul tau asteapta moderarea."
+
+# @ forestly
+#: ../functions.php:290
+msgid "Reply"
+msgstr "Raspuns"
+
+# @ forestly
+#: ../functions.php:304 ../functions.php:307
+msgid ", "
+msgstr ","
+
+# @ forestly
+#: ../functions.php:318
+#, php-format
+msgid "View all posts by %s"
+msgstr "Vezi toate mesajele lui %s"
+
+# @ forestly
+#: ../functions.php:324
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-"
+"author\"> by %4$s</span>."
+msgstr ""
+"Acest mesaj a fost publicat in %1$s si etichetat %2$s in %3$s<span class=\"by-"
+"author\"> de %4$s</span>."
+
+# @ forestly
+#: ../functions.php:326
+#, php-format
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+"Acest mesaj a fost publicat %1$s la %3$s<span class=\"by-author\"> de catre "
+"%4$s</span>."
+
+# @ forestly
+#: ../functions.php:328
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+"Acest mesaj a fost publicat in %3$s<span class=\"by-author\"> de catre "
+"%4$s</span>."
+
+#: ../functions.php:453
+msgid "ATTENTION!"
+msgstr ""
+
+#: ../functions.php:456
+msgid ""
+"Before you can enjoy the Theme there is one <strong>important</strong> thing "
+"that must be done!"
+msgstr ""
+
+#: ../functions.php:461
+msgid ""
+"Define a menu in the WordPress menu page as \"Main Navigation Menu\" or you "
+"will not see it on mobile devices."
+msgstr ""
+
+#: ../functions.php:473
+msgid "<i>Your Donation will motivate me to make Forestly better!</i>"
+msgstr ""
+
+# @ forestly
+#: ../functions.php:481 ../content.php:73
+msgid "Continue reading &raquo;"
+msgstr "Continua citirea &raquo;"
+
+# @ forestly
+#: ../functions.php:510 ../image.php:39
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior "
+
+# @ forestly
+#: ../functions.php:533 ../image.php:40
+msgid "Next &raquo;"
+msgstr "Urmatorul &raquo;"
+
+# @ forestly
+#: ../footer.php:32
+#, php-format
+msgid "<a href=\"%1$s\">Forestly</a> Theme | Powered by <a href=\"%2$s\">Wordpress</a>"
+msgstr ""
+"<a href=\"%1$s\">Forestly</a> Tematica | Sustinut de catre <a "
+"href=\"%2$s\">Wordpress</a>"
+
+# @ forestly
+#: ../header.php:67 ../header.php:68
+msgid "Skip to content"
+msgstr "Sari la continut"
+
+# @ forestly
+#: ../options.php:334
+msgid "Blogger"
+msgstr "Blogger"
+
+# @ forestly
+#: ../options.php:335
+msgid "Delicious"
+msgstr "Delicious"
+
+# @ forestly
+#: ../options.php:336
+msgid "Digg"
+msgstr "Digg"
+
+# @ forestly
+#: ../options.php:337
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ forestly
+#: ../options.php:338
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ forestly
+#: ../options.php:339
+msgid "Google"
+msgstr "Google"
+
+# @ forestly
+#: ../options.php:340
+msgid "Google Plus"
+msgstr "Google Plus"
+
+# @ forestly
+#: ../options.php:341
+msgid "Lastfm"
+msgstr "Lastfm"
+
+# @ forestly
+#: ../options.php:342
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ forestly
+#: ../options.php:343
+msgid "MySpace"
+msgstr "MySpace"
+
+# @ forestly
+#: ../options.php:344
+msgid "Orkut"
+msgstr "Orkut"
+
+# @ forestly
+#: ../options.php:345
+msgid "Reddit"
+msgstr "Reddit"
+
+# @ forestly
+#: ../options.php:346
+msgid "RSS"
+msgstr "RSS"
+
+# @ forestly
+#: ../options.php:347
+msgid "Skype"
+msgstr "Skype"
+
+# @ forestly
+#: ../options.php:348
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+# @ forestly
+#: ../options.php:349
+msgid "Technorati"
+msgstr "Technorati"
+
+# @ forestly
+#: ../options.php:350
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ forestly
+#: ../options.php:351
+msgid "Vimeo"
+msgstr "Vimeo"
+
+# @ forestly
+#: ../options.php:352
+msgid "WordPress"
+msgstr "WordPress"
+
+# @ forestly
+#: ../options.php:353
+msgid "Yahoo"
+msgstr "Yahoo"
+
+# @ forestly
+#: ../options.php:354
+msgid "Youtube"
+msgstr "Youtube"
+
+# @ forestly
+#: ../options.php:374 ../options.php:532
+msgid "General"
+msgstr "General"
+
+# @ forestly
+#: ../options.php:378
+msgid "Edit general options about your Website in this section."
+msgstr "Editeaza optiunile generale despre saitul tau in aceasta sectiune."
+
+# @ forestly
+#: ../options.php:382
+msgid "Set Logo"
+msgstr "Seteaza logoul"
+
+# @ forestly
+#: ../options.php:383
+msgid ""
+"Select or upload a new Logo Image to replace the Website Title and "
+"Description."
+msgstr ""
+"Selecteaza sau incarca o imagine logo noua pentru a inlocui titlul si "
+"descrierea saitului."
+
+# @ forestly
+#: ../options.php:388
+msgid "Set Favicon Icon"
+msgstr "Seteaza pictograma Favicon"
+
+# @ forestly
+#: ../options.php:389
+msgid ""
+"Select or upload a new Favicon Icon to display in the Address Bar of the "
+"Browser next to the Website Title. The size of the Icon should be of 16x16px."
+msgstr ""
+"Selecteaza sau incarca o noua pictogramapentru a o afisa in bara de adrese a "
+"browserului alaturi de titlul saitului. Maimea pictogramei ar trebui sa fie "
+"16x16pixeli."
+
+# @ forestly
+#: ../options.php:396 ../inc/fosforit-customizer.php:69
+msgid "Layout"
+msgstr "Plan general"
+
+# @ forestly
+#: ../options.php:400 ../inc/fosforit-customizer.php:76
+msgid "Post Excerpts"
+msgstr "Fragmente din articole"
+
+# @ forestly
+#: ../options.php:401 ../inc/fosforit-customizer.php:77
+msgid ""
+"Check the Pages and Post Types where you want to display Post Excerpts."
+"<br/>Leave unchecked to display complete Posts."
+msgstr ""
+"Verifica paginile si tipurile de articole pentru care vrei sa afisezi "
+"fragmentele de mesaje. <br/>Lasa optiunea debifata pentru a afisa mesajele "
+"complete."
+
+# @ forestly
+#: ../options.php:405 ../inc/fosforit-customizer.php:91
+msgid "Homepage"
+msgstr "Pagina de start"
+
+# @ forestly
+#: ../options.php:411 ../inc/fosforit-customizer.php:104
+msgid "Category Pages"
+msgstr "Pagini de categorii"
+
+# @ forestly
+#: ../options.php:417 ../inc/fosforit-customizer.php:117
+msgid "Tag Pages"
+msgstr "Pagini cu etichete"
+
+# @ forestly
+#: ../options.php:423 ../inc/fosforit-customizer.php:130
+msgid "Archive Pages"
+msgstr "Pagini de arhiva"
+
+# @ forestly
+#: ../options.php:429 ../inc/fosforit-customizer.php:143
+msgid "Search Results Page"
+msgstr "Pagina cu rezultatele de cautare"
+
+# @ forestly
+#: ../options.php:435 ../inc/fosforit-customizer.php:156
+msgid "Sticky Posts in Homepage"
+msgstr "Mesaje lipicioase pe pagina de start"
+
+# @ forestly
+#: ../options.php:441 ../inc/fosforit-customizer.php:165
+msgid "Display Titles in Posts/Pages"
+msgstr "Afiseaza titlurile in mesaje/pagini"
+
+# @ forestly
+#: ../options.php:442 ../inc/fosforit-customizer.php:166
+msgid ""
+"Check if you want to display Titles in single Pages or Posts.<br/>Uncheck to "
+"hide the Title."
+msgstr ""
+"Bifeaza daca vrei ca sa afisezi titlurile in pagini sau mesaje. "
+"<br/>Debifeaza daca vrei sa ascunzi titlul."
+
+# @ forestly
+#: ../options.php:446
+msgid "Posts"
+msgstr "Mesaje"
+
+# @ forestly
+#: ../options.php:452 ../sidebar.php:23
+msgid "Pages"
+msgstr "Paginile"
+
+# @ forestly
+#: ../options.php:458 ../inc/fosforit-customizer.php:202
+msgid "Enable Numeric Pagination"
+msgstr "Permite paginarea numerica"
+
+# @ forestly
+#: ../options.php:459 ../inc/fosforit-customizer.php:203
+msgid ""
+"Check if you want to display numeric pagination in Post Lists. Leave "
+"unchecked to display traditional Next/Previous Links."
+msgstr ""
+"Bifeaza daca vrei sa afisezi paginarea numerica in listele de mesaje. Lasa "
+"debifat pentru a afisa legaturile Urmatorul/Anteriorul."
+
+# @ forestly
+#: ../options.php:465 ../inc/fosforit-customizer.php:226
+msgid "Display \"Allowed HTML\" Text in Comment Form"
+msgstr "Afiseaza textul \"HTML permis\" in forma de comkentariu"
+
+# @ forestly
+#: ../options.php:466 ../inc/fosforit-customizer.php:227
+msgid "Check to display the HTML Help Text above the textarea in the comment form."
+msgstr ""
+"Bifeaza pentru a afisa textul de ajutor deasupraariei de text in forma de "
+"comentariu"
+
+#: ../options.php:472 ../inc/fosforit-customizer.php:250
+msgid "Display Author Info below single Posts"
+msgstr ""
+
+# @ forestly
+#: ../options.php:473 ../inc/fosforit-customizer.php:251
+msgid ""
+"Check to display the Author Avatar and Description below single Posts. Note "
+"that the Info Box will be displayed only when you have a description. Go to "
+"your profile page to edit it."
+msgstr ""
+"Bifeaza ca sa afisezi avatarul autorului si descrierea sub mesaje. De notat "
+"ca cutia cu informatia va fi afisata numai cand este o descriere. Mergi la "
+"pagina de profl pentru a o edita."
+
+#: ../options.php:479 ../inc/fosforit-customizer.php:274
+msgid "Display Post Navigation Links below Single Posts"
+msgstr ""
+
+#: ../options.php:480 ../inc/fosforit-customizer.php:275
+msgid "Check to display \"Next Post\" and \"Previous Post\" links below single Posts."
+msgstr ""
+
+# @ forestly
+#: ../options.php:488
+msgid "Design"
+msgstr "Design"
+
+# @ forestly
+#: ../options.php:492
+msgid ""
+"Please go to <a href=\"./customize.php\">This Page</a> to change the backround "
+"image and background color of your Website."
+msgstr ""
+"Va rugam folositi legatura <a href=\"./customize.php\">Aceasta pagina</a> "
+"pentru a schimba imaginea fondului paginii si culoarea saitului."
+
+# @ forestly
+#: ../options.php:496
+msgid "Predefined Color Schemes"
+msgstr "Scheme de culoare predefinite"
+
+# @ forestly
+#: ../options.php:497
+msgid ""
+"Select a Color Scheme for your Website. For more customization you can add "
+"and modify your own CSS rules in the Miscellaneous Tab. If you need help "
+"related to custom CSS, go to the Help Tab or visit our official Support "
+"Forum."
+msgstr ""
+"Selecteaza schema de culori pentru sait. Pentru personalizare se pot "
+"modifica si adauga regulile CSS in tabul de Diverse. Daca ai nevoie de "
+"ajutorreferitor la CSS personalizate  du-te la tabul de ajutor sau la "
+"forumul oficial de suport."
+
+# @ forestly
+#: ../options.php:512
+msgid "Font Families"
+msgstr "Familii de font-uri"
+
+# @ forestly
+#: ../options.php:513
+msgid "Configure here the Fonts you want to use in your Website."
+msgstr "Configureaza aici ce fonturi vrei sa folosesti pentru saitul tau."
+
+# @ forestly
+#: ../options.php:517
+msgid "Primary Font Family"
+msgstr "Familie de font-uri primare"
+
+# @ forestly
+#: ../options.php:533
+msgid "General Styles/Colors."
+msgstr "Stiluri si culori generale."
+
+#: ../options.php:537
+msgid "Site Container Background"
+msgstr ""
+
+#: ../options.php:543
+msgid "Site Header Background"
+msgstr ""
+
+# @ forestly
+#: ../options.php:549 ../options.php:554
+msgid "Main Menu"
+msgstr "Meniul principal"
+
+# @ forestly
+#: ../options.php:550
+msgid ""
+"These styles are applied to the Primary navigation Menu (and other elements "
+"automatically)."
+msgstr ""
+"Aceste stiluri sunt aplicate la meniul de navigatie primar (si altor "
+"elemente in mod automat)"
+
+#: ../options.php:560
+msgid "Main Menu (hovered)"
+msgstr ""
+
+#: ../options.php:566
+msgid "Sub Menu Items"
+msgstr ""
+
+#: ../options.php:572
+msgid "Sub Menu Items (hovered)"
+msgstr ""
+
+# @ forestly
+#: ../options.php:578
+msgid "Sticky Posts"
+msgstr "Mesaje lipicioase"
+
+# @ forestly
+#: ../options.php:579
+msgid "These styles are applied to Sticky Posts displayed in the Blog Homepage only."
+msgstr ""
+"Aceste stiluri sunt aplicate mesajelor lipicioase afisate numai pe pagina de "
+"blog de start."
+
+#: ../options.php:583
+msgid "Sticky Posts Background"
+msgstr ""
+
+#: ../options.php:589
+msgid "Sticky Posts Border"
+msgstr ""
+
+# @ forestly
+#: ../options.php:597 ../inc/fosforit-customizer.php:397
+msgid "Social"
+msgstr "Social"
+
+# @ forestly
+#: ../options.php:601
+msgid ""
+"Here you can activate and modify the Social Media Icons and URLs to be "
+"displayed in the Header Section of your Website. Leave an URL field blank to "
+"hide it's Icon."
+msgstr ""
+"Aici poti modifica si activa pictogramele Social Media si URL-urile afisate "
+"in sctiunea de antet a saitului. Lasa campul de URL gol pentru a-i ascunde "
+"pictograma."
+
+# @ forestly
+#: ../options.php:605
+msgid "Display Social Media Links"
+msgstr "Afiseaza legaturile pentru Social Media"
+
+# @ forestly
+#: ../options.php:606
+msgid "Check if you want to display Social Media Links in the Website Header."
+msgstr ""
+"Bifeaza daca vrei sa afisezi legaturile pentru Social Media in antetul "
+"saitului."
+
+# @ forestly
+#: ../options.php:612
+msgid "Open Links in new Tab"
+msgstr "Deschide legaturile intr-un nou tab"
+
+# @ forestly
+#: ../options.php:613
+msgid "Check to open Social Media Links in a new Browser Tab."
+msgstr "Bifeaza ca sa deschizi legaturile Social Media intr-un nou tab de browser"
+
+# @ forestly
+#: ../options.php:619
+msgid "Social Icon 1"
+msgstr "Pictograma sociala 1"
+
+# @ forestly
+#: ../options.php:620 ../options.php:636 ../options.php:652 ../options.php:668 ..
+#: /options.php:684 ../options.php:700
+msgid "Select a Social Media Icon."
+msgstr "Selecteaza o pictograma Social Media"
+
+# @ forestly
+#: ../options.php:628
+msgid "URL for Icon 1"
+msgstr "URL pentru pictograma 1"
+
+# @ forestly
+#: ../options.php:629 ../options.php:645 ../options.php:661 ../options.php:677 ..
+#: /options.php:693 ../options.php:709
+msgid "Provide an URL for the Icon."
+msgstr "Furnizeaza un URL pentru pictograma"
+
+# @ forestly
+#: ../options.php:635
+msgid "Social Icon 2"
+msgstr "Pictograma sociala 2"
+
+# @ forestly
+#: ../options.php:644
+msgid "URL for Icon 2"
+msgstr "URL pentru pictograma 2"
+
+# @ forestly
+#: ../options.php:651
+msgid "Social Icon 3"
+msgstr "Pictograma sociala 3"
+
+# @ forestly
+#: ../options.php:660
+msgid "URL for Icon 3"
+msgstr "URL pentru pictograma sociala 3"
+
+# @ forestly
+#: ../options.php:667
+msgid "Social Icon 4"
+msgstr "Pictograma sociala 4"
+
+# @ forestly
+#: ../options.php:676
+msgid "URL for Icon 4"
+msgstr "URL pentru pictograma sociala 4"
+
+# @ forestly
+#: ../options.php:683
+msgid "Social Icon 5"
+msgstr "Pictograma sociala 5"
+
+# @ forestly
+#: ../options.php:692
+msgid "URL for Icon 5"
+msgstr "URL pentru pictograma sociala 5"
+
+# @ forestly
+#: ../options.php:699
+msgid "Social Icon 6"
+msgstr "Pictograma sociala 6"
+
+# @ forestly
+#: ../options.php:708
+msgid "URL for Icon 6"
+msgstr "URL pentru pictograma sociala 5"
+
+# @ forestly
+#: ../options.php:717 ../inc/fosforit-customizer.php:594
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+# @ forestly
+#: ../options.php:721
+msgid ""
+"In this Section you can modify the Footer of your Website, edit custom CSS "
+"Styles and customize other miscellaneous Things."
+msgstr ""
+"In aceasta sectiune se poate modifica subsolul saitului, se pot edita CSS-"
+"urile si alte lucruri diverse."
+
+# @ forestly
+#: ../options.php:725
+msgid "Custom Footer Text Left"
+msgstr "Subsolul paginii personalizat pe partea stanga"
+
+# @ forestly
+#: ../options.php:726
+msgid ""
+"Insert here the HTML you want to display in the Footer on the Left: "
+"Copyright Owner, Company Name, Year, etc..."
+msgstr ""
+"Insereaza aici sursa HTML pe care vrei sa o afisezi in subsolul paginii pe "
+"partea stanga: detinatorul Copyright-ului, Numele companiei, anul, etc..."
+
+# @ forestly
+#: ../options.php:732
+msgid "Custom Footer Text Right"
+msgstr "Subsolul paginii personalizat pe partea dreapta"
+
+# @ forestly
+#: ../options.php:733
+msgid ""
+"Insert here the HTML you want to display in the Footer on the Right: Contact-"
+", Terms & Conditions-, Privacy Policy Links, etc..."
+msgstr ""
+"Insereaza aici sursa HTML pe care vrei sa o afisezi in subsolul paginii pe "
+"partea dreapta: Contact, Termeni si Conditii, Legaturi pentru politica de "
+"confidentialitate, etc..."
+
+# @ forestly
+#: ../options.php:739
+msgid "Custom CSS Styles"
+msgstr "Stiluri CSS personalizate"
+
+# @ forestly
+#: ../options.php:740
+msgid ""
+"Insert here your custom CSS styles and include them in your Posts and Pages "
+"for more personalization."
+msgstr ""
+"Insereaza aici stilurile CSS personalizate si le include in mesaje si in "
+"pagini pentru a le personaliza."
+
+# @ forestly
+#: ../options.php:748
+msgid "Help"
+msgstr "Ajutor"
+
+# @ forestly
+#: ../options.php:755
+msgid "&raquo; More Themes"
+msgstr "&raquo; Mai multe teme"
+
+# @ forestly
+#: ../options.php:756
+msgid "&raquo; Support Forum"
+msgstr "&raquo; Forum pentru suport"
+
+# @ forestly
+#: ../options.php:757
+msgid "&raquo; Fosforito.Net"
+msgstr "&raquo; Fosforito.Net"
+
+# @ forestly
+#: ../options.php:760
+msgid "Forestly Quick Start Guide"
+msgstr "Ghidul de pornire pentru Forestly"
+
+# @ forestly
+#: ../options.php:761
+msgid "Responsive Menu"
+msgstr "Meniu sensibil"
+
+# @ forestly
+#: ../options.php:761
+msgid ""
+"<p>This is the first step: Set the Main Navigation menu for mobile view by "
+"going to <a href=\"./customize.php\">This Page</a>. Create your WordPress menu "
+"as per your requirement and select it as <b>Main Navigation Menu</b>, "
+"Navigation Menu responsiveness won't work otherwise.</p>"
+msgstr ""
+"<p>Acesta este primul pas: Seteaza Meniul principal de navigare pentru "
+"dispozitive mobile accesand <a href=\"./customize.php\">aceasta pagina</a>. "
+"Creeaza meniul tau WordPress dupa cerintele tale si selecteaza-l <b>Main "
+"Navigation Menu</b>, altefel meniul nu va functiona. </p>"
+
+# @ forestly
+#: ../options.php:762
+msgid "First things to do"
+msgstr "Primele lucruri de facut"
+
+# @ forestly
+#: ../options.php:762
+msgid ""
+"<p>First upload a Logo Image for your Website. Than customize the Footer "
+"Texts in the \"Miscellaneous\" Section of this page and start Blogging! The "
+"Sidebar is Widget ready for easy configuration.</p>"
+msgstr ""
+"<p>In primul rand incarca o imagine logo pentru saitul tau. QApoi "
+"personalizeaza textele de la subsol in rubrica \"Diverse\" si incepe sa "
+"publici! Bara laterala este un widget pentru o confugurare usoara. </p>"
+
+# @ forestly
+#: ../options.php:763
+msgid "Logo Size"
+msgstr "Marimea logo"
+
+# @ forestly
+#: ../options.php:763
+msgid ""
+"<p>The recommended Logo should have dimensions of 200 x 55 pixels or similar."
+" You can easily try uploading logos of different sizes via live customizer."
+"</p>"
+msgstr ""
+"<p>Logo-ul recomandat ar trebui sa aiba marimea de 200x55 pixeli sau "
+"similara. Poti incerca incarcarea unor logo-uri de marimi diferite</p>"
+
+# @ forestly
+#: ../options.php:764
+msgid "Safe Customization"
+msgstr "Perosnalizare sigura"
+
+#: ../options.php:764
+msgid ""
+"<p>Forestly has the option to create custom CSS classes. You can add your "
+"own styles on this page in the \"Miscellaneous\" Section and include them in "
+"your Posts and Pages.</p><p>The only limit is your own creativity!</p>"
+msgstr ""
+
+# @ forestly
+#: ../options.php:765
+msgid "Idea Behind Forestly"
+msgstr "Ideea din spatele Forestly"
+
+# @ forestly
+#: ../options.php:765
+msgid ""
+"<p>The Idea behind Forestly is to equip the bloggers with a simple, light "
+"and fully responsive theme so	that they don't have to look anywhere else."
+"</p><p>It has been designed and coded in such a way that even if you are new "
+"to Wordpress you will be able to make the most out of it.</p>"
+msgstr ""
+"<p>Ideea din spatele Forestly este de a echipa bloggerii cu o tema simpla, "
+"usoara si pe deplin sensibila in asa fel incat sa nu mai trebuiasca sa caute "
+"in alta parte. </p><p>A fost implementata in asa fel incat sa poata fi "
+"folosita in cea mai mare masura chiar si de cei noi in privinta WordPress</p>"
+
+# @ forestly
+#: ../options.php:766
+msgid "Forestly is Safe"
+msgstr "Forestly este sigura"
+
+# @ forestly
+#: ../options.php:766
+msgid ""
+"<p>Forestly uses Wordpress native funtions to generate thumbnails without "
+"relying on third party scripts such as timthumb. Forestly is also properly "
+"coded to avoid plugin conflicts and is customizable.</p>"
+msgstr ""
+"<p>Forestly foloseste functiile native ale WordPress pentru a genera "
+"miniaturi fara a se baza pe scripturi ca si timthumb. Forestly este "
+"implementata si pentru a evita conflicte cu pluginuri si este pesonalizabile."
+"</p>"
+
+# @ forestly
+#: ../options.php:767
+msgid "Built for Speed"
+msgstr "Construita pentru viteza"
+
+# @ forestly
+#: ../options.php:767
+msgid ""
+"<p>The first thing you will notice about Forestly is its blazing fast "
+"rendering, it will be loved by your visitors and they will have more time "
+"for browsing your content."
+msgstr ""
+"<p>Primul lucru remarcat la Forestly este randarea rapida care va face ca "
+"vizitatorii saitului sa aiba mai mult timp sa rasfoiasca continutul."
+
+# @ forestly
+#: ../options.php:768
+msgid "The Right Choice - Ultra Responsive"
+msgstr "Alegerea corecta - Ultra sensibila"
+
+#: ../options.php:768
+msgid ""
+"<p>Forestly is a premium quality theme with pixel perfect typography and "
+"responsiveness and is built for speed with pagespeed score of 95+! Forestly "
+"implements proper SEO so that your content will rank high and is compatible "
+"with AIOSEO and Yoast SEO. It utilizes latest HTML5 and CSS3 that looks good "
+"on every browser and is future ready.</p>"
+msgstr ""
+
+# @ forestly
+#: ../options.php:769
+msgid "Support"
+msgstr "Suport"
+
+#: ../options.php:769
+msgid ""
+"<p>Support is free. Access our official Support Forums on www.fosforito."
+"net/forums/. You can also report issues, give feedback and help us in "
+"improving the theme.</p>"
+msgstr ""
+
+# @ forestly
+#: ../options.php:770
+msgid "Further Development and Roadmap"
+msgstr "Dezvoltare ulterioara si drumul viitor"
+
+# @ forestly
+#: ../options.php:770
+msgid ""
+"<p>Forestly has been handcrafted with most care and love, we hope that you "
+"will love this theme, kindly support us by rating the theme 5 stars, if "
+"there are any issue/bugs simply head to our Forums to report them and we "
+"will	do our best to fix those issues.</p>"
+msgstr ""
+"<p>Forestly a fost creata cu grija si dragoste, speram ca veti indragi "
+"aceasta tema, si va veti arata suportul prin bifarea celor 5 stele, iar daca "
+"sunt probleme si defecte in cel mai simplu mod raportati-le iar noi vom face "
+"tot ce ne sta in putinta pentru a le corecta.</p>"
+
+# @ forestly
+#: ../options.php:772
+msgid ""
+"Based on your feedback we will add the most wanted features for further "
+"improvement."
+msgstr ""
+"Pe baza feedback-ului vom adauga cele mai dorite caracteristici pentru "
+"imbunatatire."
+
+# @ forestly
+#: ../options.php:775
+msgid "Forestly Developer"
+msgstr "Dezvoltator Forestly"
+
+# @ forestly
+#: ../404.php:15
+msgid "Oops! The requested page doesn't exist!"
+msgstr "Ups! Pagina ceruta nu exista!"
+
+# @ forestly
+#: ../404.php:18 ../index.php:51 ../content-none.php:15
+msgid "Kindly search your topic below or browse the recent posts."
+msgstr "Fiti amabil(a) si cautati topicul mai jos sau rasfoiti articolele recente."
+
+# @ forestly
+#: ../author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Autorul arhivelor: %s"
+
+# @ forestly
+#: ../author.php:48 ../content.php:87
+#, php-format
+msgid "About %s"
+msgstr "Despre %s"
+
+# @ forestly
+#: ../category.php:15
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Categorii de arhive: %s"
+
+# @ forestly
+#: ../tag.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Arhive de etichete: %s"
+
+# @ forestly
+#: ../content.php:13
+msgid "Featured Article"
+msgstr "Articol recomandat"
+
+# @ forestly
+#: ../content.php:24 ../content.php:62
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+# @ forestly
+#: ../content.php:36
+msgid "By"
+msgstr "De catre"
+
+# @ forestly
+#: ../content.php:74 ../content-page.php:17 ../image.php:90
+msgid "Pages:"
+msgstr "Pagini:"
+
+# @ forestly
+#: ../content.php:78
+msgid "Category:"
+msgstr "Categorie:"
+
+# @ forestly
+#: ../content.php:91
+#, php-format
+msgid "View all posts by %s &raquo;"
+msgstr "Vezi toate articolele de %s &raquo;"
+
+# @ forestly
+#: ../archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Arhive zilnice: %s"
+
+# @ forestly
+#: ../archive.php:29
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Arhivele lunare: %s"
+
+# @ forestly
+#: ../archive.php:29
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+# @ forestly
+#: ../archive.php:31
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Arhivele anuale: %s"
+
+# @ forestly
+#: ../archive.php:31
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+# @ forestly
+#: ../archive.php:33
+msgid "Archives"
+msgstr "Arhive"
+
+# @ forestly
+#: ../comments.php:22
+#, php-format
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Comentariu despre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Comentarii despre &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s Comentarii despre &ldquo;%2$s&rdquo;"
+
+# @ forestly
+#: ../comments.php:33
+msgid "Comment navigation"
+msgstr "Navigarea comentariilor"
+
+# @ forestly
+#: ../comments.php:34
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Comentarii mai vechi"
+
+# @ forestly
+#: ../comments.php:35
+msgid "Newer Comments &raquo;"
+msgstr "Cele mai noi comentarii &raquo;"
+
+# @ forestly
+#: ../comments.php:44
+msgid "Comments are closed."
+msgstr "Comentariile sunt ichise."
+
+# @ forestly
+#: ../comments.php:50
+msgid "You can use the following HTML Tags and Attributes:"
+msgstr "Se pot folosi urmatoarele etichete HTML si atribute:"
+
+# @ forestly
+#: ../sidebar.php:19
+msgid "Recent Posts"
+msgstr "Postari recente"
+
+# @ forestly
+#: ../sidebar.php:28
+msgid "Tag Cloud"
+msgstr "Norisor de etichete"
+
+# @ forestly
+#: ../index.php:36
+msgid "No posts to display"
+msgstr "Nici un articol spre afisare"
+
+# @ forestly
+#: ../index.php:40
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Pregatit pentru a publica primul articol? <a href=\"%s\">Incepe aici!</a>."
+
+# @ forestly
+#: ../image.php:24
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Publicat  </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> la <a href=\"%3$s\" title=\"Legatura spre o "
+"imagine completa\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Intoarcere "
+"la %7$s\" rel=\"galerie\">%8$s</a>."
+
+#: ../inc/fosforit-customizer.php:180
+msgid "Display Post Title on Single Posts"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:193
+msgid "Display Page Title on Pages"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:217
+msgid "Enable Numerical Post Navigation"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:241
+msgid "Display allowed HTML Tags below Comment Forms"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:265
+msgid "Display Avatar and Description by the Author of a Post"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:289
+msgid "Display Traditional \"Next\" and \"Previous\" Links below Single Posts"
+msgstr ""
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:91 ../inc/includes/class-
+#: options-framework-admin.php:92
+msgid "Forestly Theme Options"
+msgstr "Optiunile temei Forestly"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:204
+msgid "Save Options"
+msgstr "Salveaza optiunile"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:205
+msgid "Restore Defaults"
+msgstr "Restaureaza optiunile preselectate"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:205
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Fa click pentru a reseta. Toate setarile temei vor fi pierdute!"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:236
+msgid "Default options restored."
+msgstr "Optiunile preselectate reincarcate."
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:290
+msgid "Options saved."
+msgstr "Optiuni salvate."
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Nici un fisier ales"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:65 ../inc/includes/class-
+#: options-media-uploader.php:118
+msgid "Upload"
+msgstr "Incarca"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:67 ../inc/includes/class-
+#: options-media-uploader.php:119
+msgid "Remove"
+msgstr "Inlatura"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Imbunatateste versiunea ta de WordPress pentru suport media."
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Vizualizeaza fisier"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "Nu repeta"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "Repeta orizontal"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "Repeta vertical"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "Repeta toate"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "Stanga sus"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "Centru sus"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Dreapta sus"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "Stanga la mijloc"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "Centrat la mijloc"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "Dreapta la mijloc"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "Stanga jos"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "Centrat jos"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "Dreapta jos"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "Scroleaza normal"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "Fixat"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Normal"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "Italoic"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Ingrosat"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "Ingrosat italic"

@@ -1,0 +1,1313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Forestly v1.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Fri Jun 05 2015 17:03:47 GMT-0400 (PYT)\n"
+"Last-Translator: Fosforito <nikski280@gmail.com>\n"
+"Language-Team: \n"
+"Language: Greece\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-Basepath: .\n"
+"X-Loco-Target-Locale: gr_GR"
+
+# @ forestly
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Ψάξτε αποτελέσματα για: %s"
+
+# @ forestly
+#: ../search.php:32 ../index.php:47 ../content-none.php:11
+msgid "Nothing Found"
+msgstr "Δεν βρέθηκε"
+
+# @ forestly
+#: ../search.php:36
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Συγγνώμη, τίποτα δεν ταιριάζει με τα κριτήρια αναζήτησής σας. Παρακαλώ "
+"δοκιμάστε ξανά με διαφορετικές λέξεις-κλειδιά."
+
+# @ forestly
+#: ../single.php:17 ../functions.php:227
+msgid "Post navigation"
+msgstr "Πλοήγηση δημοσίευσης"
+
+# @ forestly
+#: ../single.php:18
+msgctxt "Previous post link"
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ forestly
+#: ../single.php:19
+msgctxt "Next post link"
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ forestly
+#: ../functions.php:26
+msgid "Main Navigation Menu"
+msgstr "Κύριο Μενού Πλοήγησης"
+
+# @ forestly
+#: ../functions.php:150
+#, php-format
+msgid "Page %s"
+msgstr "Σελίδα %s"
+
+# @ forestly
+#: ../functions.php:169
+msgid "Main Sidebar"
+msgstr "Κύρια Πλευρική Μπάρα"
+
+# @ forestly
+#: ../functions.php:171
+msgid "This is a Sitewide sidebar which appears on posts and pages"
+msgstr ""
+"Αυτή είναι μια πλευρική μπάρα του στην ιστοσελίδα που εμφανίζεται στις "
+"δημοσιεύσεις και στις σελίδες"
+
+# @ forestly
+#: ../functions.php:229
+msgid "&laquo; Older posts"
+msgstr "&laquo; Παλαιότερες δημοσιεύσεις"
+
+# @ forestly
+#: ../functions.php:230
+msgid "Newer posts &raquo;"
+msgstr "Νεότερες δημοσιεύσεις &raquo;"
+
+# @ forestly
+#: ../functions.php:252
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ forestly
+#: ../functions.php:253 ../functions.php:259 ../functions.php:289 ../content.php:
+#: 79 ../content-page.php:20 ../image.php:35
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+# @ forestly
+#: ../functions.php:258
+msgid "Trackback:"
+msgstr "Trackback:"
+
+# @ forestly
+#: ../functions.php:272
+msgid "Post author"
+msgstr "Συγγραφέας δημοσίευσης"
+
+# @ forestly
+#. translators: 1: date
+#: ../functions.php:278
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ forestly
+#: ../functions.php:283
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιο σας αναμένει να ελεγχθεί."
+
+# @ forestly
+#: ../functions.php:290
+msgid "Reply"
+msgstr "Απάντηση"
+
+# @ forestly
+#: ../functions.php:304 ../functions.php:307
+msgid ", "
+msgstr ", "
+
+# @ forestly
+#: ../functions.php:318
+#, php-format
+msgid "View all posts by %s"
+msgstr "Όλες οι δημοσιεύσεις από %s"
+
+# @ forestly
+#: ../functions.php:324
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-"
+"author\"> by %4$s</span>."
+msgstr ""
+"Η καταχώρηση δημοσιεύτηκε %1$s και μπήκε ετικέτα %2$s στο %3$s<span "
+"class=\"by-author\"> από %4$s</span>."
+
+# @ forestly
+#: ../functions.php:326
+#, php-format
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+"Η καταχώρηση δημοσιεύτηκε %1$s στο %3$s<span class=\"by-author\"> από "
+"%4$s</span>."
+
+# @ forestly
+#: ../functions.php:328
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Η καταχώρηση δημοσιεύτηκε στο %3$s<span class=\"by-author\"> από %4$s</span>."
+
+#: ../functions.php:453
+msgid "ATTENTION!"
+msgstr ""
+
+#: ../functions.php:456
+msgid ""
+"Before you can enjoy the Theme there is one <strong>important</strong> thing "
+"that must be done!"
+msgstr ""
+
+#: ../functions.php:461
+msgid ""
+"Define a menu in the WordPress menu page as \"Main Navigation Menu\" or you "
+"will not see it on mobile devices."
+msgstr ""
+
+#: ../functions.php:473
+msgid "<i>Your Donation will motivate me to make Forestly better!</i>"
+msgstr ""
+
+# @ forestly
+#: ../functions.php:481 ../content.php:73
+msgid "Continue reading &raquo;"
+msgstr "Συνεχίστε την ανάγνωση &raquo;"
+
+# @ forestly
+#: ../functions.php:510 ../image.php:39
+msgid "&laquo; Previous"
+msgstr "&laquo; Προηγούμενο"
+
+# @ forestly
+#: ../functions.php:533 ../image.php:40
+msgid "Next &raquo;"
+msgstr "Επόμενο &raquo;"
+
+# @ forestly
+#: ../footer.php:32
+#, php-format
+msgid "<a href=\"%1$s\">Forestly</a> Theme | Powered by <a href=\"%2$s\">Wordpress</a>"
+msgstr ""
+"<a href=\"%1$s\">Forestly</a> Theme | Κατασκευή από <a "
+"href=\"%2$s\">Wordpress</a>"
+
+# @ forestly
+#: ../header.php:67 ../header.php:68
+msgid "Skip to content"
+msgstr "Αναπήδηση στο περιεχόμενο"
+
+# @ forestly
+#: ../options.php:334
+msgid "Blogger"
+msgstr "Blogger"
+
+# @ forestly
+#: ../options.php:335
+msgid "Delicious"
+msgstr "Delicious"
+
+# @ forestly
+#: ../options.php:336
+msgid "Digg"
+msgstr "Digg"
+
+# @ forestly
+#: ../options.php:337
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ forestly
+#: ../options.php:338
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ forestly
+#: ../options.php:339
+msgid "Google"
+msgstr "Google"
+
+# @ forestly
+#: ../options.php:340
+msgid "Google Plus"
+msgstr "Google Plus"
+
+# @ forestly
+#: ../options.php:341
+msgid "Lastfm"
+msgstr "Lastfm"
+
+# @ forestly
+#: ../options.php:342
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ forestly
+#: ../options.php:343
+msgid "MySpace"
+msgstr "MySpace"
+
+# @ forestly
+#: ../options.php:344
+msgid "Orkut"
+msgstr "Orkut"
+
+# @ forestly
+#: ../options.php:345
+msgid "Reddit"
+msgstr "Reddit"
+
+# @ forestly
+#: ../options.php:346
+msgid "RSS"
+msgstr "RSS"
+
+# @ forestly
+#: ../options.php:347
+msgid "Skype"
+msgstr "Skype"
+
+# @ forestly
+#: ../options.php:348
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+# @ forestly
+#: ../options.php:349
+msgid "Technorati"
+msgstr "Technorati"
+
+# @ forestly
+#: ../options.php:350
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ forestly
+#: ../options.php:351
+msgid "Vimeo"
+msgstr "Vimeo"
+
+# @ forestly
+#: ../options.php:352
+msgid "WordPress"
+msgstr "WordPress"
+
+# @ forestly
+#: ../options.php:353
+msgid "Yahoo"
+msgstr "Yahoo"
+
+# @ forestly
+#: ../options.php:354
+msgid "Youtube"
+msgstr "Youtube"
+
+# @ forestly
+#: ../options.php:374 ../options.php:532
+msgid "General"
+msgstr "Γενικά"
+
+# @ forestly
+#: ../options.php:378
+msgid "Edit general options about your Website in this section."
+msgstr ""
+"Σε αυτή την ενότητα μπορείτε να επεξεργαστείτε τις γενικές ρυθμίσεις της "
+"Ιστοσελίδας σας."
+
+# @ forestly
+#: ../options.php:382
+msgid "Set Logo"
+msgstr "Βάλτε Λογότυπο"
+
+# @ forestly
+#: ../options.php:383
+msgid ""
+"Select or upload a new Logo Image to replace the Website Title and "
+"Description."
+msgstr ""
+"Επιλέξτε ή μεταφορτώστε ένα καινούριο Λογότυπο(εικόνα) που θα αντικαταστήσει "
+"τον Τίτλο και την Περιγραφή της σελίδας σας."
+
+# @ forestly
+#: ../options.php:388
+msgid "Set Favicon Icon"
+msgstr "Βάλτε εικονίδιο Favicon"
+
+# @ forestly
+#: ../options.php:389
+msgid ""
+"Select or upload a new Favicon Icon to display in the Address Bar of the "
+"Browser next to the Website Title. The size of the Icon should be of 16x16px."
+msgstr ""
+"Επιλέξτε ή μεταφορτώστε ένα καινούριο εικονίδιο Favicon ώστε να φαίνεται "
+"στην μπάρα διεύθυνσης του φυλλομετρητή δίπλα από τον τίτλο της ιστοσελίδας. "
+"Το μέγεθος του εικονιδίου πρέπει να είναι 16x16px."
+
+# @ forestly
+#: ../options.php:396 ../inc/fosforit-customizer.php:69
+msgid "Layout"
+msgstr "Πλάνο"
+
+# @ forestly
+#: ../options.php:400 ../inc/fosforit-customizer.php:76
+msgid "Post Excerpts"
+msgstr "Αποσπάσματα Δημοσιεύσεων"
+
+# @ forestly
+#: ../options.php:401 ../inc/fosforit-customizer.php:77
+msgid ""
+"Check the Pages and Post Types where you want to display Post Excerpts."
+"<br/>Leave unchecked to display complete Posts."
+msgstr ""
+"Τσεκάρετε τις Σελίδες και τους τύπους Δημοσιεύσεων που θέλετε να φαίνονται "
+"αποσπάσματα των δημοσιεύσεων. <br/>Αφήστε τα ατσεκάριστα για να φαίνονται "
+"ολόκληρες οι δημοσιεύσεις."
+
+# @ forestly
+#: ../options.php:405 ../inc/fosforit-customizer.php:91
+msgid "Homepage"
+msgstr "Αρχική Σελίδα"
+
+# @ forestly
+#: ../options.php:411 ../inc/fosforit-customizer.php:104
+msgid "Category Pages"
+msgstr "Σελίδες Κατηγορίας"
+
+# @ forestly
+#: ../options.php:417 ../inc/fosforit-customizer.php:117
+msgid "Tag Pages"
+msgstr "Σελίδες Ετικέτας"
+
+# @ forestly
+#: ../options.php:423 ../inc/fosforit-customizer.php:130
+msgid "Archive Pages"
+msgstr "Σελίδες Αρχείου"
+
+# @ forestly
+#: ../options.php:429 ../inc/fosforit-customizer.php:143
+msgid "Search Results Page"
+msgstr "Σελίδα Αναζήτησης Αποτελεσμάτων"
+
+# @ forestly
+#: ../options.php:435 ../inc/fosforit-customizer.php:156
+msgid "Sticky Posts in Homepage"
+msgstr "Επισημασμένα δημοσιεύματα στην Αρχική Σελίδα"
+
+# @ forestly
+#: ../options.php:441 ../inc/fosforit-customizer.php:165
+msgid "Display Titles in Posts/Pages"
+msgstr "Εμφάνιση τίτλων σε Δημοσιεύσεις/Σελίδες"
+
+# @ forestly
+#: ../options.php:442 ../inc/fosforit-customizer.php:166
+msgid ""
+"Check if you want to display Titles in single Pages or Posts.<br/>Uncheck to "
+"hide the Title."
+msgstr ""
+"Τσεκάρετε αν θέλετε να εμφανίζονται τίτλοι σε μονές σελίδες ή δημοσιέυσεις."
+"<br/>Αφήστε το ατσεκάριστο για να κρυφτεί ο τίτλος."
+
+# @ forestly
+#: ../options.php:446
+msgid "Posts"
+msgstr "Δημοσιεύσεις"
+
+# @ forestly
+#: ../options.php:452 ../sidebar.php:23
+msgid "Pages"
+msgstr "Σελίδες"
+
+# @ forestly
+#: ../options.php:458 ../inc/fosforit-customizer.php:202
+msgid "Enable Numeric Pagination"
+msgstr "Ενεργοποίηση Αριθμητικής Σελιδοποίησης"
+
+# @ forestly
+#: ../options.php:459 ../inc/fosforit-customizer.php:203
+msgid ""
+"Check if you want to display numeric pagination in Post Lists. Leave "
+"unchecked to display traditional Next/Previous Links."
+msgstr ""
+"Τσεκάρετε αν θέλετε να εμφανίζεται αριθμητική σελιδοποίηση στη λίστα "
+"δημοσιεύσεων. Αφήστε το ατσεκάριστο για να φαίνεται το κλασσικό "
+"Επόμενο/Προηγούμενο."
+
+# @ forestly
+#: ../options.php:465 ../inc/fosforit-customizer.php:226
+msgid "Display \"Allowed HTML\" Text in Comment Form"
+msgstr "Εμφάνιση \"Επιτρεπτού HTML\" Κειμένου στα Σχόλια"
+
+# @ forestly
+#: ../options.php:466 ../inc/fosforit-customizer.php:227
+msgid "Check to display the HTML Help Text above the textarea in the comment form."
+msgstr ""
+"Τσεκάρετε για να εμφανίζεται το κείμενο βοήθειας HTML πάνω από την συγγραφή "
+"σχολίου."
+
+#: ../options.php:472 ../inc/fosforit-customizer.php:250
+msgid "Display Author Info below single Posts"
+msgstr ""
+
+# @ forestly
+#: ../options.php:473 ../inc/fosforit-customizer.php:251
+msgid ""
+"Check to display the Author Avatar and Description below single Posts. Note "
+"that the Info Box will be displayed only when you have a description. Go to "
+"your profile page to edit it."
+msgstr ""
+"Τσεκάρετε για να φαίνεται το άβαταρ του συγγραφέα και περιγραφή κάτω από "
+"μονές δημοσιεύσεις. Να ξέρετε ότι το κουτί πληροφοριών θα φαίνεται μόνο όταν "
+"υπάρχει περιγραφή. Πηγαίνετε στην σελίδα του προφίλ σας για να το "
+"επεξεργαστείτε."
+
+#: ../options.php:479 ../inc/fosforit-customizer.php:274
+msgid "Display Post Navigation Links below Single Posts"
+msgstr ""
+
+#: ../options.php:480 ../inc/fosforit-customizer.php:275
+msgid "Check to display \"Next Post\" and \"Previous Post\" links below single Posts."
+msgstr ""
+
+# @ forestly
+#: ../options.php:488
+msgid "Design"
+msgstr "Σχεδιασμός"
+
+# @ forestly
+#: ../options.php:492
+msgid ""
+"Please go to <a href=\"./customize.php\">This Page</a> to change the backround "
+"image and background color of your Website."
+msgstr ""
+"Παρακαλώ πηγαίνετε <a href=\"./customize.php\">Εδώ</a> για να αλλάξετε την "
+"εικόνα φόντου και το χρώμα του φόντου της Ιστοσελίδας σας."
+
+# @ forestly
+#: ../options.php:496
+msgid "Predefined Color Schemes"
+msgstr "Προκαθορισμένα Χρώματα Σχεδιαγραμμάτων"
+
+# @ forestly
+#: ../options.php:497
+msgid ""
+"Select a Color Scheme for your Website. For more customization you can add "
+"and modify your own CSS rules in the Miscellaneous Tab. If you need help "
+"related to custom CSS, go to the Help Tab or visit our official Support "
+"Forum."
+msgstr ""
+"Επιλέξτε ένα Χρώμα Σχεδίου για την Ιστοσελίδα σας. Για περισσότερη "
+"εξατομίκευση μπορείτε να προσθέσετε και να τροποποιήσετε το δικό σας κώδικα "
+"CSS στην καρτέλα Διάφορα. Αν χρειάζεστε βοήθεια σχετικά με το προσαρμοσμένο "
+"CSS, πηγαίνετε στην καρτέλα Βοήθειας ή επισκεφθείτε το επίσημο Φόρουμ "
+"Υποστήριξης."
+
+# @ forestly
+#: ../options.php:512
+msgid "Font Families"
+msgstr "Γραμματοσειρές"
+
+# @ forestly
+#: ../options.php:513
+msgid "Configure here the Fonts you want to use in your Website."
+msgstr ""
+"Διαμορφώστε τη γραμματοσειρά που θέλετε να χρησιμοποιείτε στην Ιστοσελίδα "
+"σας."
+
+# @ forestly
+#: ../options.php:517
+msgid "Primary Font Family"
+msgstr "Πρωταρχική Γραμματοσειρά"
+
+# @ forestly
+#: ../options.php:533
+msgid "General Styles/Colors."
+msgstr "Γενικά Στιλ/Χρώματα."
+
+#: ../options.php:537
+msgid "Site Container Background"
+msgstr ""
+
+#: ../options.php:543
+msgid "Site Header Background"
+msgstr ""
+
+# @ forestly
+#: ../options.php:549 ../options.php:554
+msgid "Main Menu"
+msgstr "Κεντρικό Μενού"
+
+# @ forestly
+#: ../options.php:550
+msgid ""
+"These styles are applied to the Primary navigation Menu (and other elements "
+"automatically)."
+msgstr ""
+"Αυτά τα στιλ εφαρμόζονται στο πρωταρχικό μενού πλοήγησης(και άλλα στοιχεία "
+"αυτόματα)."
+
+#: ../options.php:560
+msgid "Main Menu (hovered)"
+msgstr ""
+
+#: ../options.php:566
+msgid "Sub Menu Items"
+msgstr ""
+
+#: ../options.php:572
+msgid "Sub Menu Items (hovered)"
+msgstr ""
+
+# @ forestly
+#: ../options.php:578
+msgid "Sticky Posts"
+msgstr "Επισημασμένα δημοσιέυματα"
+
+# @ forestly
+#: ../options.php:579
+msgid "These styles are applied to Sticky Posts displayed in the Blog Homepage only."
+msgstr ""
+"Αυτά τα στιλ εφαρμόζονται στα Επισημασμένα Δημοσιεύματα που φαίνονται στην "
+"Κεντρική Σελίδα Μπλογκ μόνο."
+
+#: ../options.php:583
+msgid "Sticky Posts Background"
+msgstr ""
+
+#: ../options.php:589
+msgid "Sticky Posts Border"
+msgstr ""
+
+# @ forestly
+#: ../options.php:597 ../inc/fosforit-customizer.php:397
+msgid "Social"
+msgstr "Κοινωνικά"
+
+# @ forestly
+#: ../options.php:601
+msgid ""
+"Here you can activate and modify the Social Media Icons and URLs to be "
+"displayed in the Header Section of your Website. Leave an URL field blank to "
+"hide it's Icon."
+msgstr ""
+"Εδώ μπορείτε να ενεργοποιήσετε και να τροποποιήσετε τα εικονίδια Κοινωνικού "
+"Δικτιού και τους συνδέσμους που φαίνονται στην επικεφαλίδα της Ιστοσελίδας. "
+"Για να κρύψετε το εικονίδιο, αφήστε κενό το χώρο του συνδέσμου."
+
+# @ forestly
+#: ../options.php:605
+msgid "Display Social Media Links"
+msgstr "Εμφάνιση συνδέσμων κοινωνικών δικτύων"
+
+# @ forestly
+#: ../options.php:606
+msgid "Check if you want to display Social Media Links in the Website Header."
+msgstr ""
+"Τσεκάρετε αν θέλετε να φαίνονται οι σύνδεσμοι των κοινωνικών δικτύων στην "
+"επικεφαλίδα της σελίδας."
+
+# @ forestly
+#: ../options.php:612
+msgid "Open Links in new Tab"
+msgstr "Ανοίξτε συνδέσμους σε καινούρια καρτέλα."
+
+# @ forestly
+#: ../options.php:613
+msgid "Check to open Social Media Links in a new Browser Tab."
+msgstr ""
+"Τσεκάρετε για να ανοίξετε τους συνδέσμους κοινωνικών δικτύων σε καινούρια "
+"καρτέλα."
+
+# @ forestly
+#: ../options.php:619
+msgid "Social Icon 1"
+msgstr "Κοινωνικό εικονίδιο 1"
+
+# @ forestly
+#: ../options.php:620 ../options.php:636 ../options.php:652 ../options.php:668 ..
+#: /options.php:684 ../options.php:700
+msgid "Select a Social Media Icon."
+msgstr "Επιλέξτε ένα εικονίδιο κοινωνικού δικτύου."
+
+# @ forestly
+#: ../options.php:628
+msgid "URL for Icon 1"
+msgstr "Υπερσύνδεσμος για το 1ο εικονίδιο"
+
+# @ forestly
+#: ../options.php:629 ../options.php:645 ../options.php:661 ../options.php:677 ..
+#: /options.php:693 ../options.php:709
+msgid "Provide an URL for the Icon."
+msgstr "Δώστε έναν υπερσύνδεσμο για το εικονίδιο."
+
+# @ forestly
+#: ../options.php:635
+msgid "Social Icon 2"
+msgstr "Κοινωνικό εικονίδιο 2"
+
+# @ forestly
+#: ../options.php:644
+msgid "URL for Icon 2"
+msgstr "Υπερσύνδεσμος για το 2ο εικονίδιο"
+
+# @ forestly
+#: ../options.php:651
+msgid "Social Icon 3"
+msgstr "Κοινωνικό εικονίδιο 3"
+
+# @ forestly
+#: ../options.php:660
+msgid "URL for Icon 3"
+msgstr "Υπερσύνδεσμος για το 3ο εικονίδιο"
+
+# @ forestly
+#: ../options.php:667
+msgid "Social Icon 4"
+msgstr "Κοινωνικό εικονίδιο 4"
+
+# @ forestly
+#: ../options.php:676
+msgid "URL for Icon 4"
+msgstr "Υπερσύνδεσμος για το 4ο εικονίδιο"
+
+# @ forestly
+#: ../options.php:683
+msgid "Social Icon 5"
+msgstr "Κοινωνικό εικονίδιο 5"
+
+# @ forestly
+#: ../options.php:692
+msgid "URL for Icon 5"
+msgstr "Υπερσύνδεσμος για το 5ο εικονίδιο"
+
+# @ forestly
+#: ../options.php:699
+msgid "Social Icon 6"
+msgstr "Κοινωνικό εικονίδιο 6"
+
+# @ forestly
+#: ../options.php:708
+msgid "URL for Icon 6"
+msgstr "Υπερσύνδεσμος για το 6ο εικονίδιο"
+
+# @ forestly
+#: ../options.php:717 ../inc/fosforit-customizer.php:594
+msgid "Miscellaneous"
+msgstr "Διάφορα"
+
+# @ forestly
+#: ../options.php:721
+msgid ""
+"In this Section you can modify the Footer of your Website, edit custom CSS "
+"Styles and customize other miscellaneous Things."
+msgstr ""
+"Σε αυτό το τμήμα μπορείτε να τροποποιήσετε το κάτω μέρος της ιστοσελίδας, να "
+"επεξεργαστείτε το προσαρμοσμένο CSS και να προσαρμόσετε άλλα διάφορα "
+"πράγματα."
+
+# @ forestly
+#: ../options.php:725
+msgid "Custom Footer Text Left"
+msgstr "Προσαρμοσμένο Κείμενο Αριστερά στο Κάτω Μέρος"
+
+# @ forestly
+#: ../options.php:726
+msgid ""
+"Insert here the HTML you want to display in the Footer on the Left: "
+"Copyright Owner, Company Name, Year, etc..."
+msgstr ""
+"Τοποθετήστε εδώ τον κώδικα HTML που θέλετε να εμφανίζεται στο Αριστερά Κάτω "
+"Μέρος: Ιδιοκτήτης Πνευματικών Δικαιωμάτων, Όνομα Εταιρίας, Χρόνος, κτλ..."
+
+# @ forestly
+#: ../options.php:732
+msgid "Custom Footer Text Right"
+msgstr "Προσαρμοσμένο Κείμενο Δεξιά στο Κάτω Μέρος"
+
+# @ forestly
+#: ../options.php:733
+msgid ""
+"Insert here the HTML you want to display in the Footer on the Right: Contact-"
+", Terms & Conditions-, Privacy Policy Links, etc..."
+msgstr ""
+"Τοποθετήστε εδώ τον κώδικα HTML που θέλετε να εμφανίζεται Δεξιά στο Κάτω "
+"Μέρος: Επικοινωνία, Όροι & Προϋποθέσεις, Σύνδεσμοι Πολιτικής Προστασίας "
+"Προσωπικών Δεδομένων, κτλ..."
+
+# @ forestly
+#: ../options.php:739
+msgid "Custom CSS Styles"
+msgstr "Προσαρμοσμένα σχέδια CSS"
+
+# @ forestly
+#: ../options.php:740
+msgid ""
+"Insert here your custom CSS styles and include them in your Posts and Pages "
+"for more personalization."
+msgstr ""
+"Τοποθετήστε εδώ τα προσαρμοσμένα σχέδια CSS και συμπεριλάβετέ τα στις "
+"Δημοσιεύσεις σας και τις Σελίδες για περισσότερη εξατομίκευση."
+
+# @ forestly
+#: ../options.php:748
+msgid "Help"
+msgstr "Βοήθεια"
+
+# @ forestly
+#: ../options.php:755
+msgid "&raquo; More Themes"
+msgstr "&raquo; Περισσότερα Θέματα"
+
+# @ forestly
+#: ../options.php:756
+msgid "&raquo; Support Forum"
+msgstr "&raquo; Φόρουμ Υποστήριξης"
+
+# @ forestly
+#: ../options.php:757
+msgid "&raquo; Fosforito.Net"
+msgstr "&raquo; Fosforito.Net"
+
+# @ forestly
+#: ../options.php:760
+msgid "Forestly Quick Start Guide"
+msgstr "Οδηγός Γρήγορης Εκκίνησης Forestly"
+
+# @ forestly
+#: ../options.php:761
+msgid "Responsive Menu"
+msgstr "Απαντητικό μενού"
+
+# @ forestly
+#: ../options.php:761
+msgid ""
+"<p>This is the first step: Set the Main Navigation menu for mobile view by "
+"going to <a href=\"./customize.php\">This Page</a>. Create your WordPress menu "
+"as per your requirement and select it as <b>Main Navigation Menu</b>, "
+"Navigation Menu responsiveness won't work otherwise.</p>"
+msgstr ""
+"<p>Αυτό είναι το πρώτο βήμα: Βάλτε το Κυρίως Μενού πλόηγησης για προβολή από "
+"κινητό πηγαίνοντας <a href=\"./customize.php\">Εδώ</a>. Δημιουργήστε το "
+"WordPress μενού σας όπως επιθυμείτε και επιλέξτε το ως <b>Κύριο Μενού "
+"Πλοήγησης</b>, Η απαντητικότητα του μενού πλοήγησης δεν θα υπάρχει αλλιώς."
+"</p>"
+
+# @ forestly
+#: ../options.php:762
+msgid "First things to do"
+msgstr "Πρώτα πράγματα να κάνετε"
+
+# @ forestly
+#: ../options.php:762
+msgid ""
+"<p>First upload a Logo Image for your Website. Than customize the Footer "
+"Texts in the \"Miscellaneous\" Section of this page and start Blogging! The "
+"Sidebar is Widget ready for easy configuration.</p>"
+msgstr ""
+"<p>Για αρχή, μεταφορτώστε μια εικόνα λογοτύπου για την σελίδα σας. Μετά, "
+"προσαρμόστε τα κείμενα του κάτω μέρους στα \"Διάφορα\" και ξεκινήστε το "
+"Blogging! H πλευρική μπάρα μπορεί να ρυθμιστεί εύκολα.</p>"
+
+# @ forestly
+#: ../options.php:763
+msgid "Logo Size"
+msgstr "Μέγεθος Λογοτύπου"
+
+# @ forestly
+#: ../options.php:763
+msgid ""
+"<p>The recommended Logo should have dimensions of 200 x 55 pixels or similar."
+" You can easily try uploading logos of different sizes via live customizer."
+"</p>"
+msgstr ""
+"<p>Το προτεινόμενο μέγεθος Λογοτύπου πρέπει να έχει διαστάσεις 200 x 55 "
+"pixels ή κάτι παρόμοιο. Μπορείτε εύκολα να μεταφορτώσετε διαφορετικών "
+"μεγεθών λογότυπα μέσω του ζωντανού προσαρμοστή.</p>"
+
+# @ forestly
+#: ../options.php:764
+msgid "Safe Customization"
+msgstr "Ασφαλής Προσάρμοση"
+
+#: ../options.php:764
+msgid ""
+"<p>Forestly has the option to create custom CSS classes. You can add your "
+"own styles on this page in the \"Miscellaneous\" Section and include them in "
+"your Posts and Pages.</p><p>The only limit is your own creativity!</p>"
+msgstr ""
+
+# @ forestly
+#: ../options.php:765
+msgid "Idea Behind Forestly"
+msgstr "Η Ιδέα πίσω απο το Forestly"
+
+# @ forestly
+#: ../options.php:765
+msgid ""
+"<p>The Idea behind Forestly is to equip the bloggers with a simple, light "
+"and fully responsive theme so	that they don't have to look anywhere else."
+"</p><p>It has been designed and coded in such a way that even if you are new "
+"to Wordpress you will be able to make the most out of it.</p>"
+msgstr ""
+"<p>Η ιδέα πίσω από το Forestly είναι να δίνει στους bloggers εργαλεία με "
+"ελαφρύ και πλήρες απαντητικό θέμα έτσι ώστε να μην έχουν να ψάξουν αλλού."
+"</p><p>Σχεδιάστηκε και προγραμματίστηκε με τέτοιο τρόπο έτσι ώστε ακόμα και "
+"αν είστε καινούριος χρήστης του WordPress, να μπορείτε να το αξιοποιήσετε "
+"στο έπακρο.</p>"
+
+# @ forestly
+#: ../options.php:766
+msgid "Forestly is Safe"
+msgstr "Το Forestly είναι Ασφαλές"
+
+# @ forestly
+#: ../options.php:766
+msgid ""
+"<p>Forestly uses Wordpress native funtions to generate thumbnails without "
+"relying on third party scripts such as timthumb. Forestly is also properly "
+"coded to avoid plugin conflicts and is customizable.</p>"
+msgstr ""
+"<p>Το Forestly χρησιμοποιεί τις λειτουργίες του WordPress για να "
+"δημιουργήσει ιχνογραφήματα χωρίς να στηρίζεται σε τρίτα προγράμματα όπως το "
+"timthumb. Το Forestly είναι επίσης προγραμματισμένο έτσι ώστε να μην "
+"παρουσιάζει προβλήματα με άλλα plugin και να ειναι προσαρμόσιμο.</p>"
+
+# @ forestly
+#: ../options.php:767
+msgid "Built for Speed"
+msgstr "Δημιουργημένο για Ταχύτητα"
+
+# @ forestly
+#: ../options.php:767
+msgid ""
+"<p>The first thing you will notice about Forestly is its blazing fast "
+"rendering, it will be loved by your visitors and they will have more time "
+"for browsing your content."
+msgstr ""
+"<p>Το πρώτο πράγματα που θα παρατηρήσετε σχετικά με το Forestly είναι η "
+"τεράστια του ταχύτητα απόδοσης, την οποία θα αγαπήσουν οι επισκέπτες σας και "
+"θα έχουν περισσότερο χρόνο να περιεργαστούν το περιεχόμενό σας."
+
+# @ forestly
+#: ../options.php:768
+msgid "The Right Choice - Ultra Responsive"
+msgstr "Η Σωστή Επιλογή - Πολύ Απαντητικό"
+
+#: ../options.php:768
+msgid ""
+"<p>Forestly is a premium quality theme with pixel perfect typography and "
+"responsiveness and is built for speed with pagespeed score of 95+! Forestly "
+"implements proper SEO so that your content will rank high and is compatible "
+"with AIOSEO and Yoast SEO. It utilizes latest HTML5 and CSS3 that looks good "
+"on every browser and is future ready.</p>"
+msgstr ""
+
+# @ forestly
+#: ../options.php:769
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: ../options.php:769
+msgid ""
+"<p>Support is free. Access our official Support Forums on www.fosforito."
+"net/forums/. You can also report issues, give feedback and help us in "
+"improving the theme.</p>"
+msgstr ""
+
+# @ forestly
+#: ../options.php:770
+msgid "Further Development and Roadmap"
+msgstr "Περαιτέρω Εξέλιξη και Σχέδιο Δράσης"
+
+# @ forestly
+#: ../options.php:770
+msgid ""
+"<p>Forestly has been handcrafted with most care and love, we hope that you "
+"will love this theme, kindly support us by rating the theme 5 stars, if "
+"there are any issue/bugs simply head to our Forums to report them and we "
+"will	do our best to fix those issues.</p>"
+msgstr ""
+"<p>Το Forestly έχει φτιαχτεί με πολύ φροντίδα και αγάπη, και ελπίζουμε να το "
+"λατρέψετε, παρακαλώ υποστηρίξτε μας με το να μας βαθμολογήσετε με 5 αστέρια, "
+"αν υπάρχουν προβλήματα απλά περιηγηθείτε στα Φόρουμ μας για να τα αναφέρετε "
+"και θα κάνουμε ό,τι μπορούμε για να τα διορθώσουμε.</p>"
+
+# @ forestly
+#: ../options.php:772
+msgid ""
+"Based on your feedback we will add the most wanted features for further "
+"improvement."
+msgstr ""
+"Βασιζόμενοι στην γνώμη σας θα προσθέσουμε τις πιο εξεζητημένες λειτουργίες "
+"για περαιτέρω βελτίωση."
+
+# @ forestly
+#: ../options.php:775
+msgid "Forestly Developer"
+msgstr "Προγραμματιστής του Forestly"
+
+# @ forestly
+#: ../404.php:15
+msgid "Oops! The requested page doesn't exist!"
+msgstr "Ωχ! Η σελίδα που ψάχνετε δεν υπάρχει!"
+
+# @ forestly
+#: ../404.php:18 ../index.php:51 ../content-none.php:15
+msgid "Kindly search your topic below or browse the recent posts."
+msgstr "Παρακαλώ αναζητήστε το θέμα σας παρακάτω ή ψάξτε τις πρόσφατες δημοσιεύσεις."
+
+# @ forestly
+#: ../author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Αρχεία Συντάκτη: %s"
+
+# @ forestly
+#: ../author.php:48 ../content.php:87
+#, php-format
+msgid "About %s"
+msgstr "Σχετικά %s"
+
+# @ forestly
+#: ../category.php:15
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Κατηγορία Αρχείων: %s"
+
+# @ forestly
+#: ../tag.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Ετικέτα Αρχείων: %s"
+
+# @ forestly
+#: ../content.php:13
+msgid "Featured Article"
+msgstr "Προτεινόμενο Άρθρο"
+
+# @ forestly
+#: ../content.php:24 ../content.php:62
+#, php-format
+msgid "Permalink to %s"
+msgstr "Σύνδεσμος στο %s"
+
+# @ forestly
+#: ../content.php:36
+msgid "By"
+msgstr "Από"
+
+# @ forestly
+#: ../content.php:74 ../content-page.php:17 ../image.php:90
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+# @ forestly
+#: ../content.php:78
+msgid "Category:"
+msgstr "Κατηγορία:"
+
+# @ forestly
+#: ../content.php:91
+#, php-format
+msgid "View all posts by %s &raquo;"
+msgstr "Όλες οι δημοσιεύσεις από %s &raquo;"
+
+# @ forestly
+#: ../archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Καθημερινά αρχεία: %s"
+
+# @ forestly
+#: ../archive.php:29
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Μηνιαία Αρχεία: %s"
+
+# @ forestly
+#: ../archive.php:29
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+# @ forestly
+#: ../archive.php:31
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Ετήσια αρχεία: %s"
+
+# @ forestly
+#: ../archive.php:31
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+# @ forestly
+#: ../archive.php:33
+msgid "Archives"
+msgstr "Αρχεία"
+
+# @ forestly
+#: ../comments.php:22
+#, php-format
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ένα σχόλιο στο &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+# @ forestly
+#: ../comments.php:33
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+# @ forestly
+#: ../comments.php:34
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Παλαιότερα Σχόλια"
+
+# @ forestly
+#: ../comments.php:35
+msgid "Newer Comments &raquo;"
+msgstr "Νεότερα Σχόλια &raquo;"
+
+# @ forestly
+#: ../comments.php:44
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι απενεργοποιημένα."
+
+# @ forestly
+#: ../comments.php:50
+msgid "You can use the following HTML Tags and Attributes:"
+msgstr "Μπορείτε να χρησιμοποιήσετε τα παρακάτω HTML Tags και Attributes:"
+
+# @ forestly
+#: ../sidebar.php:19
+msgid "Recent Posts"
+msgstr "Πρόσφατες Δημοσιεύσεις"
+
+# @ forestly
+#: ../sidebar.php:28
+msgid "Tag Cloud"
+msgstr "Ετικέτα Cloud"
+
+# @ forestly
+#: ../index.php:36
+msgid "No posts to display"
+msgstr "Δεν υπάρχουν σχόλια"
+
+# @ forestly
+#: ../index.php:40
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+"Είστε έτοιμος/η να δημοσιεύσετε την πρώτη σας δημοσίευση; <a "
+"href=\"%s\">Ξεκινήστε εδώ</a>."
+
+# @ forestly
+#: ../image.php:24
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Εκδόθη </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> στο <a href=\"%3$s\" title=\"Σύνδεσμος για "
+"μεγαλύτερη εικόνα\">%4$s &times; %5$s</a> σε <a href=\"%6$s\" title=\"Επιστροφή "
+"στο %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: ../inc/fosforit-customizer.php:180
+msgid "Display Post Title on Single Posts"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:193
+msgid "Display Page Title on Pages"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:217
+msgid "Enable Numerical Post Navigation"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:241
+msgid "Display allowed HTML Tags below Comment Forms"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:265
+msgid "Display Avatar and Description by the Author of a Post"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:289
+msgid "Display Traditional \"Next\" and \"Previous\" Links below Single Posts"
+msgstr ""
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:91 ../inc/includes/class-
+#: options-framework-admin.php:92
+msgid "Forestly Theme Options"
+msgstr "Θέμα Forestly Επιλογές"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:204
+msgid "Save Options"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:205
+msgid "Restore Defaults"
+msgstr "Επαναφορά στις προεπιλεγμένες ρυθμίσεις"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:205
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Πατήστε ΟΚ για επαναφορά. Κάθε ρύθμιση του θέματος θα χαθεί!"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:236
+msgid "Default options restored."
+msgstr "Επαναφέρθηκαν οι προεπιλεγμένες ρυθμίσεις."
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:290
+msgid "Options saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Δεν επιλέχθηκε αρχείο"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:65 ../inc/includes/class-
+#: options-media-uploader.php:118
+msgid "Upload"
+msgstr "Μεταφόρτωση"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:67 ../inc/includes/class-
+#: options-media-uploader.php:119
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Αναβαθμίστε την έκδοση του WordPress για πλήρη υποστήριξη."
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Εμφα΄νιση Αρχείου"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "Χωρίς Επανάληψη"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "Οριζόντια Επανάληψη"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "Κατακόρυφη Επανάληψη"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "Επανάληψη Όλων"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "Πάνω Αριστερά"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "Πάνω Κέντρο"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Πάνω δεξιά"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "Μέση Αριστερά"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "Μέση Κέντρο"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "Μέση Δεξιά"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "Κάτω Αριστερά"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "Κάτω Κέντρο"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "Κάτω δεξιά"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "Κανονική κύληση"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "Σταθερή Θέση"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Κανονικό"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "Πλάγιο"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Έντονο"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "Έντονο Πλάγιο"

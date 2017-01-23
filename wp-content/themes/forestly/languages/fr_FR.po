@@ -1,0 +1,1280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Forestly v1.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Fri Jun 05 2015 17:03:58 GMT-0400 (PYT)\n"
+"Last-Translator: Fosforito <nikski280@gmail.com>\n"
+"Language-Team: \n"
+"Language: French (France)\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: fr_FR"
+
+# @ forestly
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+# @ forestly
+#: ../search.php:32 ../index.php:47 ../content-none.php:11
+msgid "Nothing Found"
+msgstr "Pas de résultat"
+
+# @ forestly
+#: ../search.php:36
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "Désolé, mais rien n'a été trouvé. Essayez encore avec d'autres mots-clés."
+
+# @ forestly
+#: ../single.php:17 ../functions.php:227
+msgid "Post navigation"
+msgstr "Navigation des billets"
+
+# @ forestly
+#: ../single.php:18
+msgctxt "Previous post link"
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ forestly
+#: ../single.php:19
+msgctxt "Next post link"
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ forestly
+#: ../functions.php:26
+msgid "Main Navigation Menu"
+msgstr "Menu principal"
+
+# @ forestly
+#: ../functions.php:150
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+# @ forestly
+#: ../functions.php:169
+msgid "Main Sidebar"
+msgstr "Barre de côté principale"
+
+# @ forestly
+#: ../functions.php:171
+msgid "This is a Sitewide sidebar which appears on posts and pages"
+msgstr ""
+"Ceci est une barre de côté sur le site entier qui apparaît sur les billets "
+"et les pages"
+
+# @ forestly
+#: ../functions.php:229
+msgid "&laquo; Older posts"
+msgstr "&laquo; Billets précédents"
+
+# @ forestly
+#: ../functions.php:230
+msgid "Newer posts &raquo;"
+msgstr "Nouveaux billets &raquo;"
+
+# @ forestly
+#: ../functions.php:252
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ forestly
+#: ../functions.php:253 ../functions.php:259 ../functions.php:289 ../content.php:
+#: 79 ../content-page.php:20 ../image.php:35
+msgid "Edit"
+msgstr "Edit"
+
+# @ forestly
+#: ../functions.php:258
+msgid "Trackback:"
+msgstr "Trackback:"
+
+# @ forestly
+#: ../functions.php:272
+msgid "Post author"
+msgstr "Auteur du billet"
+
+# @ forestly
+#. translators: 1: date
+#: ../functions.php:278
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+# @ forestly
+#: ../functions.php:283
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire attend d'être validé par un humain."
+
+# @ forestly
+#: ../functions.php:290
+msgid "Reply"
+msgstr "Répondre"
+
+# @ forestly
+#: ../functions.php:304 ../functions.php:307
+msgid ", "
+msgstr ","
+
+# @ forestly
+#: ../functions.php:318
+#, php-format
+msgid "View all posts by %s"
+msgstr "Voir tous les billets par %s"
+
+# @ forestly
+#: ../functions.php:324
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-"
+"author\"> by %4$s</span>."
+msgstr ""
+"Cette entrée a été postée dans %1$s et taggée %2$s le %3$s<span class=\"by-"
+"author\"> par %4$s</span>."
+
+# @ forestly
+#: ../functions.php:326
+#, php-format
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+"Cette entrée a été postée dans %1$s le %3$s<span class=\"by-author\"> par "
+"%4$s</span>."
+
+# @ forestly
+#: ../functions.php:328
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Cette entrée a été postée le %3$s<span class=\"by-author\"> par %4$s</span>."
+
+#: ../functions.php:453
+msgid "ATTENTION!"
+msgstr ""
+
+#: ../functions.php:456
+msgid ""
+"Before you can enjoy the Theme there is one <strong>important</strong> thing "
+"that must be done!"
+msgstr ""
+
+#: ../functions.php:461
+msgid ""
+"Define a menu in the WordPress menu page as \"Main Navigation Menu\" or you "
+"will not see it on mobile devices."
+msgstr ""
+
+#: ../functions.php:473
+msgid "<i>Your Donation will motivate me to make Forestly better!</i>"
+msgstr ""
+
+# @ forestly
+#: ../functions.php:481 ../content.php:73
+msgid "Continue reading &raquo;"
+msgstr "Continuer à lire &raquo;"
+
+# @ forestly
+#: ../functions.php:510 ../image.php:39
+msgid "&laquo; Previous"
+msgstr "&laquo; Précédent"
+
+# @ forestly
+#: ../functions.php:533 ../image.php:40
+msgid "Next &raquo;"
+msgstr "Suivant &raquo;"
+
+# @ forestly
+#: ../footer.php:32
+#, php-format
+msgid "<a href=\"%1$s\">Forestly</a> Theme | Powered by <a href=\"%2$s\">Wordpress</a>"
+msgstr "<a href=\"%1$s\">Forestly</a> Theme | Propulsé par <a href=\"%2$s\">Wordpress</a>"
+
+# @ forestly
+#: ../header.php:67 ../header.php:68
+msgid "Skip to content"
+msgstr "Passer au contenu"
+
+# @ forestly
+#: ../options.php:334
+msgid "Blogger"
+msgstr "Blogger"
+
+# @ forestly
+#: ../options.php:335
+msgid "Delicious"
+msgstr "Delicious"
+
+# @ forestly
+#: ../options.php:336
+msgid "Digg"
+msgstr "Digg"
+
+# @ forestly
+#: ../options.php:337
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ forestly
+#: ../options.php:338
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ forestly
+#: ../options.php:339
+msgid "Google"
+msgstr "Google"
+
+# @ forestly
+#: ../options.php:340
+msgid "Google Plus"
+msgstr "Google Plus"
+
+# @ forestly
+#: ../options.php:341
+msgid "Lastfm"
+msgstr "Lastfm"
+
+# @ forestly
+#: ../options.php:342
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ forestly
+#: ../options.php:343
+msgid "MySpace"
+msgstr "MySpace"
+
+# @ forestly
+#: ../options.php:344
+msgid "Orkut"
+msgstr "Orkut"
+
+# @ forestly
+#: ../options.php:345
+msgid "Reddit"
+msgstr "Reddit"
+
+# @ forestly
+#: ../options.php:346
+msgid "RSS"
+msgstr "RSS"
+
+# @ forestly
+#: ../options.php:347
+msgid "Skype"
+msgstr "Skype"
+
+# @ forestly
+#: ../options.php:348
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+# @ forestly
+#: ../options.php:349
+msgid "Technorati"
+msgstr "Technorati"
+
+# @ forestly
+#: ../options.php:350
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ forestly
+#: ../options.php:351
+msgid "Vimeo"
+msgstr "Vimeo"
+
+# @ forestly
+#: ../options.php:352
+msgid "WordPress"
+msgstr "WordPress"
+
+# @ forestly
+#: ../options.php:353
+msgid "Yahoo"
+msgstr "Yahoo"
+
+# @ forestly
+#: ../options.php:354
+msgid "Youtube"
+msgstr "Youtube"
+
+# @ forestly
+#: ../options.php:374 ../options.php:532
+msgid "General"
+msgstr "Général"
+
+# @ forestly
+#: ../options.php:378
+msgid "Edit general options about your Website in this section."
+msgstr "Éditez les options générales à propos du site web dans cette section."
+
+# @ forestly
+#: ../options.php:382
+msgid "Set Logo"
+msgstr "Changer le logo"
+
+# @ forestly
+#: ../options.php:383
+msgid ""
+"Select or upload a new Logo Image to replace the Website Title and "
+"Description."
+msgstr ""
+"Sélectionnez ou uploadez un nouveau logo pour remplacer le titre du site web "
+"et la description."
+
+# @ forestly
+#: ../options.php:388
+msgid "Set Favicon Icon"
+msgstr "Changer le favicon"
+
+# @ forestly
+#: ../options.php:389
+msgid ""
+"Select or upload a new Favicon Icon to display in the Address Bar of the "
+"Browser next to the Website Title. The size of the Icon should be of 16x16px."
+msgstr "Sélectionnez ou uploadez un nouveau favicon. (taille : 16x16px)"
+
+# @ forestly
+#: ../options.php:396 ../inc/fosforit-customizer.php:69
+msgid "Layout"
+msgstr "Disposition"
+
+# @ forestly
+#: ../options.php:400 ../inc/fosforit-customizer.php:76
+msgid "Post Excerpts"
+msgstr "Extraits de billets"
+
+# @ forestly
+#: ../options.php:401 ../inc/fosforit-customizer.php:77
+msgid ""
+"Check the Pages and Post Types where you want to display Post Excerpts."
+"<br/>Leave unchecked to display complete Posts."
+msgstr ""
+"Cochez les pages et catégories où vous voulez les extraits affichés."
+"<br/>Laissez décoché pour montrer le post en entier."
+
+# @ forestly
+#: ../options.php:405 ../inc/fosforit-customizer.php:91
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+# @ forestly
+#: ../options.php:411 ../inc/fosforit-customizer.php:104
+msgid "Category Pages"
+msgstr "Pages catégorie"
+
+# @ forestly
+#: ../options.php:417 ../inc/fosforit-customizer.php:117
+msgid "Tag Pages"
+msgstr "Pages de tags"
+
+# @ forestly
+#: ../options.php:423 ../inc/fosforit-customizer.php:130
+msgid "Archive Pages"
+msgstr "Pages d'archives"
+
+# @ forestly
+#: ../options.php:429 ../inc/fosforit-customizer.php:143
+msgid "Search Results Page"
+msgstr "Page de résultats de recherche"
+
+# @ forestly
+#: ../options.php:435 ../inc/fosforit-customizer.php:156
+msgid "Sticky Posts in Homepage"
+msgstr "Billets gluants dans la page d'accueil"
+
+# @ forestly
+#: ../options.php:441 ../inc/fosforit-customizer.php:165
+msgid "Display Titles in Posts/Pages"
+msgstr "Afficher les titres dans les billets/pages"
+
+# @ forestly
+#: ../options.php:442 ../inc/fosforit-customizer.php:166
+msgid ""
+"Check if you want to display Titles in single Pages or Posts.<br/>Uncheck to "
+"hide the Title."
+msgstr ""
+"Cochez si vous voulez afficher les titres dans les pages et billets."
+"<br/>Décochez pour cacher le titre."
+
+# @ forestly
+#: ../options.php:446
+msgid "Posts"
+msgstr "Billets"
+
+# @ forestly
+#: ../options.php:452 ../sidebar.php:23
+msgid "Pages"
+msgstr "Pages"
+
+# @ forestly
+#: ../options.php:458 ../inc/fosforit-customizer.php:202
+msgid "Enable Numeric Pagination"
+msgstr "Permettre la pagination numérique"
+
+# @ forestly
+#: ../options.php:459 ../inc/fosforit-customizer.php:203
+msgid ""
+"Check if you want to display numeric pagination in Post Lists. Leave "
+"unchecked to display traditional Next/Previous Links."
+msgstr ""
+"Cochez si vous voulez afficher la pagination numérique dans la liste des "
+"billets. Laissez décoché pour la vue traditionnelle Suivant/Précédent."
+
+# @ forestly
+#: ../options.php:465 ../inc/fosforit-customizer.php:226
+msgid "Display \"Allowed HTML\" Text in Comment Form"
+msgstr "Afficher le texte \"HTML autorisé\" dans les formes de commentaires"
+
+# @ forestly
+#: ../options.php:466 ../inc/fosforit-customizer.php:227
+msgid "Check to display the HTML Help Text above the textarea in the comment form."
+msgstr ""
+"Cochez pour afficher le texte d'aide HTML au-dessus de la zone de text des "
+"commentaires."
+
+#: ../options.php:472 ../inc/fosforit-customizer.php:250
+msgid "Display Author Info below single Posts"
+msgstr ""
+
+# @ forestly
+#: ../options.php:473 ../inc/fosforit-customizer.php:251
+msgid ""
+"Check to display the Author Avatar and Description below single Posts. Note "
+"that the Info Box will be displayed only when you have a description. Go to "
+"your profile page to edit it."
+msgstr ""
+"Cochez pour afficher l'avatar de l'auteur et la description sous les billets,"
+" si existante. Allez dans votre profil pour l'éditer."
+
+#: ../options.php:479 ../inc/fosforit-customizer.php:274
+msgid "Display Post Navigation Links below Single Posts"
+msgstr ""
+
+#: ../options.php:480 ../inc/fosforit-customizer.php:275
+msgid "Check to display \"Next Post\" and \"Previous Post\" links below single Posts."
+msgstr ""
+
+# @ forestly
+#: ../options.php:488
+msgid "Design"
+msgstr "Design"
+
+# @ forestly
+#: ../options.php:492
+msgid ""
+"Please go to <a href=\"./customize.php\">This Page</a> to change the backround "
+"image and background color of your Website."
+msgstr ""
+"Allez sur <a href=\"./customize.php\">cette page</a> pour changer l'image de "
+"fond et la couleur de fond de votre site."
+
+# @ forestly
+#: ../options.php:496
+msgid "Predefined Color Schemes"
+msgstr "Schémas de couleur prédéfinis"
+
+# @ forestly
+#: ../options.php:497
+msgid ""
+"Select a Color Scheme for your Website. For more customization you can add "
+"and modify your own CSS rules in the Miscellaneous Tab. If you need help "
+"related to custom CSS, go to the Help Tab or visit our official Support "
+"Forum."
+msgstr ""
+"Séléctionnez un schéma de couleur pour votre site. Pour plus de "
+"customisation vous pouvez ajouter et modifier votre CSS dans l'onglet divers."
+" Si vous avez besoin d'aide, allez sur le forum de support."
+
+# @ forestly
+#: ../options.php:512
+msgid "Font Families"
+msgstr "Familles de polices"
+
+# @ forestly
+#: ../options.php:513
+msgid "Configure here the Fonts you want to use in your Website."
+msgstr "Configurez ici les polices que vous souhaitez utiliser pour le blog."
+
+# @ forestly
+#: ../options.php:517
+msgid "Primary Font Family"
+msgstr "Famille de police principale"
+
+# @ forestly
+#: ../options.php:533
+msgid "General Styles/Colors."
+msgstr "Styles généraux / couleurs."
+
+#: ../options.php:537
+msgid "Site Container Background"
+msgstr ""
+
+#: ../options.php:543
+msgid "Site Header Background"
+msgstr ""
+
+# @ forestly
+#: ../options.php:549 ../options.php:554
+msgid "Main Menu"
+msgstr "Menu principal"
+
+# @ forestly
+#: ../options.php:550
+msgid ""
+"These styles are applied to the Primary navigation Menu (and other elements "
+"automatically)."
+msgstr ""
+"Ces styles sont appliqués à la navigation primaire (et les autres éléments "
+"automatiquement)"
+
+#: ../options.php:560
+msgid "Main Menu (hovered)"
+msgstr ""
+
+#: ../options.php:566
+msgid "Sub Menu Items"
+msgstr ""
+
+#: ../options.php:572
+msgid "Sub Menu Items (hovered)"
+msgstr ""
+
+# @ forestly
+#: ../options.php:578
+msgid "Sticky Posts"
+msgstr "Posts gluants"
+
+# @ forestly
+#: ../options.php:579
+msgid "These styles are applied to Sticky Posts displayed in the Blog Homepage only."
+msgstr ""
+"Ces styles sont appliqués au billets gluants affichés dans la page d'accueil "
+"du blog seulement."
+
+#: ../options.php:583
+msgid "Sticky Posts Background"
+msgstr ""
+
+#: ../options.php:589
+msgid "Sticky Posts Border"
+msgstr ""
+
+# @ forestly
+#: ../options.php:597 ../inc/fosforit-customizer.php:397
+msgid "Social"
+msgstr "Social"
+
+# @ forestly
+#: ../options.php:601
+msgid ""
+"Here you can activate and modify the Social Media Icons and URLs to be "
+"displayed in the Header Section of your Website. Leave an URL field blank to "
+"hide it's Icon."
+msgstr ""
+"Ici vous pouvez activer et modifier les icônes sociales et les URLs à "
+"afficher dans l'en-tête du site. Laissez vide pour cacher l'icône."
+
+# @ forestly
+#: ../options.php:605
+msgid "Display Social Media Links"
+msgstr "Montrer les liens sociaux"
+
+# @ forestly
+#: ../options.php:606
+msgid "Check if you want to display Social Media Links in the Website Header."
+msgstr "Cochez si vous voulez afficher les liens sociaux dans l'en-tête du site."
+
+# @ forestly
+#: ../options.php:612
+msgid "Open Links in new Tab"
+msgstr "Ouvrir les liens dans un nouvel onglet"
+
+# @ forestly
+#: ../options.php:613
+msgid "Check to open Social Media Links in a new Browser Tab."
+msgstr "Cochez pour ouvrir le lien social media dans un nouvel onglet."
+
+# @ forestly
+#: ../options.php:619
+msgid "Social Icon 1"
+msgstr "Icône sociale 1"
+
+# @ forestly
+#: ../options.php:620 ../options.php:636 ../options.php:652 ../options.php:668 ..
+#: /options.php:684 ../options.php:700
+msgid "Select a Social Media Icon."
+msgstr "Sélectionnez une icône sociale media."
+
+# @ forestly
+#: ../options.php:628
+msgid "URL for Icon 1"
+msgstr "URL pour icône 1"
+
+# @ forestly
+#: ../options.php:629 ../options.php:645 ../options.php:661 ../options.php:677 ..
+#: /options.php:693 ../options.php:709
+msgid "Provide an URL for the Icon."
+msgstr "Mettez une URL pour l'icône."
+
+# @ forestly
+#: ../options.php:635
+msgid "Social Icon 2"
+msgstr "Icône sociale 2"
+
+# @ forestly
+#: ../options.php:644
+msgid "URL for Icon 2"
+msgstr "URL pour icône 2"
+
+# @ forestly
+#: ../options.php:651
+msgid "Social Icon 3"
+msgstr "Icône sociale 3"
+
+# @ forestly
+#: ../options.php:660
+msgid "URL for Icon 3"
+msgstr "URL pour icône 3"
+
+# @ forestly
+#: ../options.php:667
+msgid "Social Icon 4"
+msgstr "Icône sociale 4"
+
+# @ forestly
+#: ../options.php:676
+msgid "URL for Icon 4"
+msgstr "URL pour icône 4"
+
+# @ forestly
+#: ../options.php:683
+msgid "Social Icon 5"
+msgstr "Icône sociale 5"
+
+# @ forestly
+#: ../options.php:692
+msgid "URL for Icon 5"
+msgstr "URL pour icône 5"
+
+# @ forestly
+#: ../options.php:699
+msgid "Social Icon 6"
+msgstr "Icône sociale 6"
+
+# @ forestly
+#: ../options.php:708
+msgid "URL for Icon 6"
+msgstr "URL pour icône 6"
+
+# @ forestly
+#: ../options.php:717 ../inc/fosforit-customizer.php:594
+msgid "Miscellaneous"
+msgstr "Divers"
+
+# @ forestly
+#: ../options.php:721
+msgid ""
+"In this Section you can modify the Footer of your Website, edit custom CSS "
+"Styles and customize other miscellaneous Things."
+msgstr ""
+"Ici vous pouvez modifier le pied-de-page du site web, éditer et customiser "
+"les styles CSS entre autres."
+
+# @ forestly
+#: ../options.php:725
+msgid "Custom Footer Text Left"
+msgstr "Pied-de-page texte personnalisé gauche"
+
+# @ forestly
+#: ../options.php:726
+msgid ""
+"Insert here the HTML you want to display in the Footer on the Left: "
+"Copyright Owner, Company Name, Year, etc..."
+msgstr ""
+"Insérez ici le HTML que vous voulez dans le footer sur la gauche: Copyright, "
+"année, etc…"
+
+# @ forestly
+#: ../options.php:732
+msgid "Custom Footer Text Right"
+msgstr "Pied-de-page texte personnalisé droit"
+
+# @ forestly
+#: ../options.php:733
+msgid ""
+"Insert here the HTML you want to display in the Footer on the Right: Contact-"
+", Terms & Conditions-, Privacy Policy Links, etc..."
+msgstr ""
+"Insérez ici le HTML que vous voulez dans le footer sur la droite: Copyright, "
+"année, etc…"
+
+# @ forestly
+#: ../options.php:739
+msgid "Custom CSS Styles"
+msgstr "Styles CSS personnalisés"
+
+# @ forestly
+#: ../options.php:740
+msgid ""
+"Insert here your custom CSS styles and include them in your Posts and Pages "
+"for more personalization."
+msgstr ""
+"Insérez ici vos styles CSS persos et incluez-les dans vos billets et pages "
+"pour plus de personnalisation."
+
+# @ forestly
+#: ../options.php:748
+msgid "Help"
+msgstr "Aide"
+
+# @ forestly
+#: ../options.php:755
+msgid "&raquo; More Themes"
+msgstr "&raquo; Plus de thèmes"
+
+# @ forestly
+#: ../options.php:756
+msgid "&raquo; Support Forum"
+msgstr "&raquo; Support Forum"
+
+# @ forestly
+#: ../options.php:757
+msgid "&raquo; Fosforito.Net"
+msgstr "&raquo; Fosforito.Net"
+
+# @ forestly
+#: ../options.php:760
+msgid "Forestly Quick Start Guide"
+msgstr "Forestly Guide de démarrage rapide"
+
+# @ forestly
+#: ../options.php:761
+msgid "Responsive Menu"
+msgstr "Menu responsive"
+
+# @ forestly
+#: ../options.php:761
+msgid ""
+"<p>This is the first step: Set the Main Navigation menu for mobile view by "
+"going to <a href=\"./customize.php\">This Page</a>. Create your WordPress menu "
+"as per your requirement and select it as <b>Main Navigation Menu</b>, "
+"Navigation Menu responsiveness won't work otherwise.</p>"
+msgstr ""
+"<p>Ceci est la première étape: Mettre le menu principal pour les mobiles en "
+"allant<a href=\"./customize.php\">ici</a>. Créez votre menu wordpress et "
+"sélectionnez-le comme <b>Menu principal</b>, sinon le responsive sur les "
+"mobiles ne fonctionnera pas.</p>"
+
+# @ forestly
+#: ../options.php:762
+msgid "First things to do"
+msgstr "Première chose à faire"
+
+# @ forestly
+#: ../options.php:762
+msgid ""
+"<p>First upload a Logo Image for your Website. Than customize the Footer "
+"Texts in the \"Miscellaneous\" Section of this page and start Blogging! The "
+"Sidebar is Widget ready for easy configuration.</p>"
+msgstr ""
+"<p>En premier, uploadez un logo pour votre site. Puis customisez le pied-de-"
+"page dans la section Divers et commencez à bloguer ! La sidebar est conçue "
+"pour une configuration facile.</p>"
+
+# @ forestly
+#: ../options.php:763
+msgid "Logo Size"
+msgstr "Taille du logo"
+
+# @ forestly
+#: ../options.php:763
+msgid ""
+"<p>The recommended Logo should have dimensions of 200 x 55 pixels or similar."
+" You can easily try uploading logos of different sizes via live customizer."
+"</p>"
+msgstr "<p>Taille du logo . 200 x 55.</p>"
+
+# @ forestly
+#: ../options.php:764
+msgid "Safe Customization"
+msgstr "Customisation sûre"
+
+#: ../options.php:764
+msgid ""
+"<p>Forestly has the option to create custom CSS classes. You can add your "
+"own styles on this page in the \"Miscellaneous\" Section and include them in "
+"your Posts and Pages.</p><p>The only limit is your own creativity!</p>"
+msgstr ""
+
+# @ forestly
+#: ../options.php:765
+msgid "Idea Behind Forestly"
+msgstr "Idée derrière Forestly"
+
+# @ forestly
+#: ../options.php:765
+msgid ""
+"<p>The Idea behind Forestly is to equip the bloggers with a simple, light "
+"and fully responsive theme so	that they don't have to look anywhere else."
+"</p><p>It has been designed and coded in such a way that even if you are new "
+"to Wordpress you will be able to make the most out of it.</p>"
+msgstr ""
+"<p>L'idée derrière Forestly est d'équiper les blogueurs avec un thème "
+"responsive, simple, et léger afin qu'ils ne regarde nul par ailleurs."
+"</p><p>Il a été designé et codé pour que même si vous êtes nouveau à "
+"WordPress, vous pouvez en tirer le meilleur.</p>"
+
+# @ forestly
+#: ../options.php:766
+msgid "Forestly is Safe"
+msgstr "Forstly est sûr"
+
+# @ forestly
+#: ../options.php:766
+msgid ""
+"<p>Forestly uses Wordpress native funtions to generate thumbnails without "
+"relying on third party scripts such as timthumb. Forestly is also properly "
+"coded to avoid plugin conflicts and is customizable.</p>"
+msgstr ""
+"<p>Forestly utilise les functions natives de WordPres pour générer des "
+"thumbnails sans utiliser de scripts tiers comme timthumb. Forestly est "
+"également codé proprement afin d'éviter des conflits de plugins, et est "
+"customisable.</p>"
+
+# @ forestly
+#: ../options.php:767
+msgid "Built for Speed"
+msgstr "Construit pour la vitesse"
+
+# @ forestly
+#: ../options.php:767
+msgid ""
+"<p>The first thing you will notice about Forestly is its blazing fast "
+"rendering, it will be loved by your visitors and they will have more time "
+"for browsing your content."
+msgstr ""
+"<p>La première chose que vous remarquerez avec Forestly c'est sa vitesse de "
+"rende, elle sera adorée par vos visiteurs et ils auront plus de temps pour "
+"lire le contenu."
+
+# @ forestly
+#: ../options.php:768
+msgid "The Right Choice - Ultra Responsive"
+msgstr "Le bon choix - Ultra répondant"
+
+#: ../options.php:768
+msgid ""
+"<p>Forestly is a premium quality theme with pixel perfect typography and "
+"responsiveness and is built for speed with pagespeed score of 95+! Forestly "
+"implements proper SEO so that your content will rank high and is compatible "
+"with AIOSEO and Yoast SEO. It utilizes latest HTML5 and CSS3 that looks good "
+"on every browser and is future ready.</p>"
+msgstr ""
+
+# @ forestly
+#: ../options.php:769
+msgid "Support"
+msgstr "Support"
+
+#: ../options.php:769
+msgid ""
+"<p>Support is free. Access our official Support Forums on www.fosforito."
+"net/forums/. You can also report issues, give feedback and help us in "
+"improving the theme.</p>"
+msgstr ""
+
+# @ forestly
+#: ../options.php:770
+msgid "Further Development and Roadmap"
+msgstr "Futurs développements et roadmap"
+
+# @ forestly
+#: ../options.php:770
+msgid ""
+"<p>Forestly has been handcrafted with most care and love, we hope that you "
+"will love this theme, kindly support us by rating the theme 5 stars, if "
+"there are any issue/bugs simply head to our Forums to report them and we "
+"will	do our best to fix those issues.</p>"
+msgstr ""
+"<p>Forestly a été conçu avec beaucoup d'amour et de glandes mammaires, on "
+"espère que vous aimerez ce thème, et que vous nous mettrez 5 étoiles. Si y'a "
+"un soucis, venez sur le forum et on fera ce qu'on pourra pour résoudre le "
+"problème.</p>"
+
+# @ forestly
+#: ../options.php:772
+msgid ""
+"Based on your feedback we will add the most wanted features for further "
+"improvement."
+msgstr "Basé sur votre feedback, on ajoutera les features les plus voulues."
+
+# @ forestly
+#: ../options.php:775
+msgid "Forestly Developer"
+msgstr "Developpeur Forestly"
+
+# @ forestly
+#: ../404.php:15
+msgid "Oops! The requested page doesn't exist!"
+msgstr "Et merde ! La page demandée n'existe pas !"
+
+# @ forestly
+#: ../404.php:18 ../index.php:51 ../content-none.php:15
+msgid "Kindly search your topic below or browse the recent posts."
+msgstr "Cherchez votre sujet plus bas ou les messages récents."
+
+# @ forestly
+#: ../author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archives de l'auteur : %s"
+
+# @ forestly
+#: ../author.php:48 ../content.php:87
+#, php-format
+msgid "About %s"
+msgstr "À propos %s"
+
+# @ forestly
+#: ../category.php:15
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Catégorie Archives : %s"
+
+# @ forestly
+#: ../tag.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+# @ forestly
+#: ../content.php:13
+msgid "Featured Article"
+msgstr "Article choisi"
+
+# @ forestly
+#: ../content.php:24 ../content.php:62
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalien sur %s"
+
+# @ forestly
+#: ../content.php:36
+msgid "By"
+msgstr "Par"
+
+# @ forestly
+#: ../content.php:74 ../content-page.php:17 ../image.php:90
+msgid "Pages:"
+msgstr "Pages :"
+
+# @ forestly
+#: ../content.php:78
+msgid "Category:"
+msgstr "Catégorie :"
+
+# @ forestly
+#: ../content.php:91
+#, php-format
+msgid "View all posts by %s &raquo;"
+msgstr "Voir tous les billets par %s &raquo;"
+
+# @ forestly
+#: ../archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes : %s"
+
+# @ forestly
+#: ../archive.php:29
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles : %s"
+
+# @ forestly
+#: ../archive.php:29
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+# @ forestly
+#: ../archive.php:31
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles : %s"
+
+# @ forestly
+#: ../archive.php:31
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+# @ forestly
+#: ../archive.php:33
+msgid "Archives"
+msgstr "Archives"
+
+# @ forestly
+#: ../comments.php:22
+#, php-format
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+# @ forestly
+#: ../comments.php:33
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+# @ forestly
+#: ../comments.php:34
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Commentaires précédents"
+
+# @ forestly
+#: ../comments.php:35
+msgid "Newer Comments &raquo;"
+msgstr "Commentaires les plus récents &raquo;"
+
+# @ forestly
+#: ../comments.php:44
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+# @ forestly
+#: ../comments.php:50
+msgid "You can use the following HTML Tags and Attributes:"
+msgstr "Vous pouvez utiliser les tags HTML suivants :"
+
+# @ forestly
+#: ../sidebar.php:19
+msgid "Recent Posts"
+msgstr "Billets récents"
+
+# @ forestly
+#: ../sidebar.php:28
+msgid "Tag Cloud"
+msgstr "Nuage de tags"
+
+# @ forestly
+#: ../index.php:36
+msgid "No posts to display"
+msgstr "Pas de billets à afficher"
+
+# @ forestly
+#: ../index.php:40
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Prêt à publier votre premier billet ?<a href=\"%s\">Démarrez ici</a>."
+
+# @ forestly
+#: ../image.php:24
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Publié </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> à <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> dans <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>."
+
+#: ../inc/fosforit-customizer.php:180
+msgid "Display Post Title on Single Posts"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:193
+msgid "Display Page Title on Pages"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:217
+msgid "Enable Numerical Post Navigation"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:241
+msgid "Display allowed HTML Tags below Comment Forms"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:265
+msgid "Display Avatar and Description by the Author of a Post"
+msgstr ""
+
+#: ../inc/fosforit-customizer.php:289
+msgid "Display Traditional \"Next\" and \"Previous\" Links below Single Posts"
+msgstr ""
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:91 ../inc/includes/class-
+#: options-framework-admin.php:92
+msgid "Forestly Theme Options"
+msgstr "Options du thème Forestly"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:204
+msgid "Save Options"
+msgstr "Options de sauvegarde"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:205
+msgid "Restore Defaults"
+msgstr "Remettre à zéro"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:205
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Cliquez OK pour remettre à zéro. Tous les paramètres du thème seront perdus !"
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:236
+msgid "Default options restored."
+msgstr "Options par défaut restaurées."
+
+# @ forestly
+#: ../inc/includes/class-options-framework-admin.php:290
+msgid "Options saved."
+msgstr "Options sauvées"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Pas de fichier choisi"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:65 ../inc/includes/class-
+#: options-media-uploader.php:118
+msgid "Upload"
+msgstr "Upload"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:67 ../inc/includes/class-
+#: options-media-uploader.php:119
+msgid "Remove"
+msgstr "Retirer"
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Mettez à jour WordPress pour un support media complet."
+
+# @ forestly
+#: ../inc/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Voir fichier"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "Pas de répétition"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "Répétition horizontale"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "Répéter verticalement"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "Répéter tout"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "Haut gauche"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "Haut centre"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Haut droite"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "Milieu Gauche"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "Milieu centre"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "Milieu droite"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "Bas gauche"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "Bas centre"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "Bas droite"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "Défiler normalement"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "Fixer en place"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Normal"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "Italique"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Gras"
+
+# @ forestly
+#: ../inc/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "Gras italique"

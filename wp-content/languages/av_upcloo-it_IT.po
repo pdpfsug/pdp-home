@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UpCloo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-02 13:24+0100\n"
+"PO-Revision-Date: 2014-05-02 13:24+0100\n"
+"Last-Translator: Niccolò Tapparo <niccolo.tapparo@gmail.com>\n"
+"Language-Team: UpCloo Ltd. <info@upcloo.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../options/app-advanced-config-options.php:3
+#: ../options/app-config-options.php:3 ../options/app-enable-options.php:3
+msgid "Your configuration is saved correctly!"
+msgstr "La tua configurazione è salvata correttamente!"
+
+#: ../options/app-advanced-config-options.php:10
+msgid "UpCloo Advanced Options"
+msgstr "Opzioni UpCloo Avanzate"
+
+#: ../options/app-advanced-config-options.php:20
+msgid "Plugin Doc"
+msgstr "Documentazione Plugin"
+
+#: ../options/app-advanced-config-options.php:22
+#: ../options/app-advanced-config-options.php:94
+#: ../options/app-config-options.php:60
+msgid "Save Changes"
+msgstr "Salva le Modifiche"
+
+#: ../options/app-advanced-config-options.php:28
+msgid "UpCloo Widget Title"
+msgstr "Titolo Widget UpCloo"
+
+#: ../options/app-advanced-config-options.php:29
+msgid "Override UpCloo default widget title"
+msgstr "Riscrivi il titolo del widget di UpCloo"
+
+#: ../options/app-advanced-config-options.php:37
+msgid "Type of content where show related links"
+msgstr "Tipo di contenuti dove visualizzare i correlati"
+
+#: ../options/app-advanced-config-options.php:37
+msgid ""
+"Select type of content that UpCloo has to analyze (tipically just 'post' is "
+"a good choice)."
+msgstr ""
+"Seleziona il tipo di contenuti che UpCloo deve analizzare (tipicamente "
+"'post' è una buona scelta)."
+
+#: ../options/app-advanced-config-options.php:61
+msgid "UpCloo inline manual placeholder"
+msgstr "Attiva il placeholder di UpCloo manuale"
+
+#: ../options/app-advanced-config-options.php:62
+msgid ""
+"Remember that you have to add by hand the UpCloo placeholder into your "
+"template"
+msgstr ""
+"Ricordati che devi aggiungere manualmente il placehoder di UpCloo nel tuo "
+"template"
+
+#: ../options/app-advanced-config-options.php:71
+msgid "Show images"
+msgstr "Mostra le immagini"
+
+#: ../options/app-advanced-config-options.php:72
+msgid ""
+"If you activate/disactivate this option you have to select a new layout in "
+"UpCloo base settings and save it!"
+msgstr ""
+"Se attivi/disattivi questa opzione devi selezionare un nuovo layout nei "
+"settaggi di base di UpCloo e salvare!"
+
+#: ../options/app-advanced-config-options.php:82
+msgid "UpCloo Activation Status"
+msgstr "Stato di Attivazione"
+
+#: ../options/app-advanced-config-options.php:83
+msgid "Remember that if you deactivate the plugin you can't see related posts"
+msgstr ""
+"Ricorda che se disattivi il plugin non vedrai più le correlazioni per i tuoi "
+"contenuti"
+
+#: ../options/app-config-options.php:9
+msgid "UpCloo General Options"
+msgstr "UpCloo Opzioni Generali"
+
+#: ../options/app-config-options.php:15
+msgid ""
+"Start now using UpCloo for free. Select the best layout for your widget:"
+msgstr ""
+"Inizia ora ad utilizzare UpCloo gratuitamente. Seleziona il miglior layout:"
+
+#: ../options/app-config-options.php:29 ../options/app-config-options.php:46
+msgid "Popover view"
+msgstr "A comparsa"
+
+#: ../options/app-config-options.php:49
+msgid "Below your body"
+msgstr "Sotto il tuo testo"
+
+#: ../options/app-config-options.php:55
+msgid "The box appears in box after the page scroll"
+msgstr "Il box compare dopo aver fatto lo \"scroll\" la pagina"
+
+#: ../options/app-config-options.php:56
+msgid "The box appears automatically below your post body"
+msgstr "Il box compare automaticamente sotto il testo del tuo post"
+
+#: ../options/app-config-options.php:69
+msgid ""
+"UpCloo starts showing the correlations in your most recent posts. It could "
+"be required a while to show correlations in whole website."
+msgstr ""
+"UpCloo inizia a mostrare le correlazioni per i tuoi post più recenti. Ci può "
+"volere un po di tempo per mostrare le correlazioni su tutto il sito."
+
+#: ../options/app-config-options.php:70
+msgid ""
+"Now you can wait relax. UpCloo will provide the best correlations for you!"
+msgstr ""
+"Ora puoi fare un po' di relax. UpCloo darà le migliori correlazioni per te!"
+
+#: ../options/app-config-options.php:75
+msgid "If you have any problem, ask to us!"
+msgstr "Per qualunque problema, chiedi a noi!"
+
+#: ../options/app-config-options.php:76
+msgid "Click here"
+msgstr "Clicca qui"
+
+#: ../options/app-enable-options.php:7
+msgid "UpCloo <strong>Related Post Plugin</strong> for AlterVista"
+msgstr "Upcloo <strong>Plugin Articoli Correlati</strong> per AlterVista"
+
+#: ../options/app-enable-options.php:8
+msgid ""
+"Thanks to this plugin you can easily show the best related posts on your "
+"contents,<br>choosing the best layout for your blog. It's fully automated "
+"and very easy to use."
+msgstr ""
+"Grazie a questo plugin puoi facilmente mostrare i migliori correlati per i "
+"tuoi contenuti,<br>scegliendo il layout che più ti piace per il tuo blog. E' "
+"completamente automatizzato e facile da utilizzare."
+
+#: ../options/app-enable-options.php:10
+#, php-format
+msgid "You have %1$s of %2$s required posts"
+msgstr "Hai %1$s di %2$s articoli richiesti"
+
+#: ../options/app-enable-options.php:11
+msgid ""
+"In order to guarantee a minimum quality of service you can't activate UpCloo "
+"now, but don't be shy, you have just to add more articles!"
+msgstr ""
+"Per garantire la minima qualità di servizio non puoi ancora attivare UpCloo, "
+"ma non essere timido, devi solo scrivere più articoli!"
+
+#: ../options/app-enable-options.php:16
+msgid "Click here to activate the UpCloo Plugin!"
+msgstr "Clicca qui per attivare il plugin UpCloo per Altervista!"
+
+#: ../options/app-enable-options.php:22
+msgid "It's free and you can edit and deactivate whenever you want."
+msgstr ""
+"E' gratuito, puoi modificare le impostazioni e disattivarlo quando e come "
+"vuoi."
+
+#: ../options/app-enable-options.php:23
+msgid "Sometimes it could show some adv message."
+msgstr "Qualche volta può visualizzare qualche messaggio pubblicitario."
+
+#: ../options/app-enable-options.php:24
+msgid "Request Support"
+msgstr "Richiesta Supporto"
+
+#: ../upcloo-altervista.php:108
+msgid "Remember that your have to configure UpCloo Plugin: "
+msgstr "Ricordati che devi configurare il plugin di UpCloo"
+
+#: ../upcloo-altervista.php:108
+msgid "Config Page"
+msgstr "Pagina di Configurazione"
+
+#: ../upcloo-altervista.php:108
+msgid "Advanced Config Page"
+msgstr "Pagina di Configurazione Avanzata"
+
+#: ../upcloo-altervista.php:115
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai permessi a sufficienza per visualizzare questa pagina."
+
+#: ../upcloo-altervista.php:131 ../upcloo-altervista.php:133
+msgid "UpCloo"
+msgstr "UpCloo"
+
+#: ../upcloo-altervista.php:134
+msgid "Advanced Configurations"
+msgstr "Configurazione Avanzata"
+
+#~ msgid "Use UpCloo as a widget instead at the end of the body"
+#~ msgstr ""
+#~ "Usare UpCloo come un widget invece che appeso alla fine del corpo di un "
+#~ "articolo"
+
+#~ msgid "UpCloo News Widget"
+#~ msgstr "Widget Rete di UpCloo."
+
+#~ msgid "UpCloo Network Widget"
+#~ msgstr "Widget Rete di UpCloo"
+
+#~ msgid "The UpCloo Virtual Partner SiteKey Widget"
+#~ msgstr "Widget UpCloo per le Chiavi Sito Partner Virtuali"
+
+#~ msgid "Virtual Partner:"
+#~ msgstr "Partner Virtuale:"
+
+#~ msgid "Option template id:"
+#~ msgstr "ID template opzioni"
+
+#~ msgid "Select your best related post widget"
+#~ msgstr "Seleziona come visualizzare le tue correlazioni"
+
+#~ msgid ""
+#~ "UpCloo takes few minutes to start showing your correlations in your old "
+#~ "content and it analyze your blog externally in order to provide always "
+#~ "fresh results"
+#~ msgstr ""
+#~ "UpCloo impiega pochi minuti per mostrare le correlazioni nei tuoi vecchi "
+#~ "contenuti e analizza il tuo blog esternamente per garantirti sempre "
+#~ "risultati aggiornati"
+
+#~ msgid "Welcome To UpCloo"
+#~ msgstr "Benvenuto in UpCloo"
+
+#~ msgid ""
+#~ "UpCloo takes tipically 10 minutes to show first correlations. It improves "
+#~ "results during next hours and continues to analyze and working for you in "
+#~ "a completely automated way."
+#~ msgstr ""
+#~ "UpCloo impiega tipicamente 10 minuti per mostrare le prime correlazioni. "
+#~ "Il miglioramento dei risultati continua nelle successive ore e il sistema "
+#~ "analizzerà e lavorerà per te in modo completamente automatizzato."
+
+#~ msgid "Your sitekey"
+#~ msgstr "La tua Sitekey"
+
+#~ msgid "signup for free"
+#~ msgstr "signup for free"
+
+#~ msgid "Your option ID"
+#~ msgstr "ID opzioni"
