@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - AddToAny Share Buttons - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-11-05 10:05:35+0000\n"
+"PO-Revision-Date: 2021-04-12 06:17:44+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36,7 +36,7 @@ msgid "Display at the %s of media pages"
 msgstr "Mostra al %s delle pagine multimediali"
 
 #. Description of the plugin
-msgid "Share buttons for your pages including AddToAny's universal sharing button, Facebook, Twitter, Google+, Pinterest, WhatsApp and many more."
+msgid "Share buttons for your pages including AddToAny's universal sharing button, Facebook, Twitter, LinkedIn, Pinterest, WhatsApp and many more."
 msgstr "I pulsanti di condivisione per le tue pagine, includono il pulsante di AddToAny di condivisione universale, Facebook, Twitter, Google+, Pinterest, WhatsApp e molti altri."
 
 #: addtoany.admin.php:699
@@ -269,7 +269,7 @@ msgstr "Mobile"
 msgid "Standard"
 msgstr "Standard"
 
-#: addtoany.admin.php:435 add-to-any.php:1210
+#: addtoany.admin.php:435 add-to-any.php:1225
 msgid "AddToAny Share Settings"
 msgstr "Impostazioni condivisione di AddToAny"
 
@@ -294,78 +294,78 @@ msgid "Show sharing buttons."
 msgstr "Mostra pulsanti di condivisione."
 
 #. Author of the plugin
-#: addtoany.admin.php:10 add-to-any.php:1211
+#: addtoany.admin.php:10 add-to-any.php:1226
 msgid "AddToAny"
 msgstr "AddToAny"
 
-#: add-to-any.php:1240
+#: add-to-any.php:1255
 msgid "Settings"
 msgstr "Impostazioni"
 
-#: add-to-any.php:548
+#: add-to-any.php:563
 msgid "More&#8230;"
 msgstr "Di più&#8230;"
 
-#: add-to-any.php:547
+#: add-to-any.php:562
 msgid "Email program"
 msgstr "Programma di posta elettronica"
 
-#: add-to-any.php:546
+#: add-to-any.php:561
 msgid "Send from any email address or email program"
 msgstr "Invia da qualsiasi indirizzo email o programma di posta elettronica"
 
-#: add-to-any.php:545
+#: add-to-any.php:560
 msgid "Add to your favorites"
 msgstr "Aggiungi ai favoriti"
 
-#: add-to-any.php:544
+#: add-to-any.php:559
 msgid "Press Ctrl+D or \\u2318+D to bookmark this page"
 msgstr "Premi Ctrl+D o \\u2318+D per mettere questa pagina nei preferiti"
 
-#: add-to-any.php:543
+#: add-to-any.php:558
 msgid "Bookmark in your browser"
 msgstr "Aggiungi ai segnalibri"
 
-#: add-to-any.php:542
+#: add-to-any.php:557
 msgid "Subscribe via email"
 msgstr "Iscriviti via email"
 
-#: add-to-any.php:541
+#: add-to-any.php:556
 msgid "Share via email"
 msgstr "Condividi via email"
 
-#: add-to-any.php:540
+#: add-to-any.php:555
 msgid "Powered by"
 msgstr "Powered by"
 
-#: add-to-any.php:539
+#: add-to-any.php:554
 msgid "Instantly find any service to add to"
 msgstr "Trova subito un servizio da aggiungere"
 
-#: add-to-any.php:538
+#: add-to-any.php:553
 msgid "Find service(s)"
 msgstr "Trova servizi"
 
-#: add-to-any.php:537
+#: add-to-any.php:552
 msgid "Show less"
 msgstr "comprimi"
 
-#: add-to-any.php:536
+#: add-to-any.php:551
 msgid "Show all"
 msgstr "espandi"
 
-#: add-to-any.php:535
+#: add-to-any.php:550
 msgid "Bookmark"
 msgstr "Segnalibro"
 
-#: add-to-any.php:534
+#: add-to-any.php:549
 msgid "Email"
 msgstr "Email"
 
-#: add-to-any.php:533
+#: add-to-any.php:548
 msgid "Subscribe"
 msgstr "Abbonati"
 
-#: add-to-any.php:532
+#: add-to-any.php:547
 msgid "Save"
 msgstr "Salva"
