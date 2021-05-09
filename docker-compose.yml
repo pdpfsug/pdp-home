@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+  wordpress:
+    image: wordpress:php7.4
+    restart: unless-stopped
+    ports:
+      - 8080:80
+    environment:
+      WORDPRESS_DB_NAME: wp_pdp
+      WORDPRESS_DB_USER: CHANGEME
+      WORDPRESS_DB_PASSWORD: CHANGEME
+      WORDPRESS_DB_HOST: db
+    volumes:
+      - wordpress:/var/www/html
+      - ./wp-content:/var/www/html/wp-content
+
+  db:
+    image: mysql:8.0
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: wp_pdp
+      MYSQL_USER: CHANGEME
+      MYSQL_PASSWORD: CHANGEME
+      MYSQL_RANDOM_ROOT_PASSWORD: '1'
+    volumes:
+      - db:/var/lib/mysql
+      - ./db-dump:/docker-entrypoint-initdb.d
+
+volumes:
+  wordpress: {}
+  db: {}

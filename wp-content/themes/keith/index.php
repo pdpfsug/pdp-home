@@ -1,1 +1,0 @@
-<?php do_action( 'av_framework_index' ); ?>
